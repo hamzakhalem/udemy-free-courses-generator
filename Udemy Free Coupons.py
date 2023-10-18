@@ -20,8 +20,6 @@ def logo():
     print("-------------------------------------------------------------------------")
     print("\t\t\t\t ABOUT")
     print("-------------------------------------------------------------------------")
-    print("\t\t Author: Ahlyab")
-    print("\t\t Github: https://www.github.com/Ahlyab")
     print("\t\t Note : Author is not responsible for any misuse!\n\t\t        This tool is completely legal.")
     print("-------------------------------------------------------------------------")
 
