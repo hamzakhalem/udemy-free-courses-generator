@@ -47,7 +47,7 @@ def get_coupon_link_from_list(list,n):
         url = elemnt.get_attribute("href")
         driver.get(url)
         link = driver.find_element_by_partial_link_text("https://www.udemy.com/").get_attribute("href")
-        print(link)
+
         
         return link
 
