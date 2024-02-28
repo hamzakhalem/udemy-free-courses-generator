@@ -1,117 +1,35 @@
------
-------
-Aprende Laravel paso a paso desde cero - De 0 a 100
-https://www.udemy.com/course/aprende-laravel-paso-a-paso-desde-cero-de-0-a-100/?couponCode=597F069F3FC4162A8ADC
-
------
-php masterclass desarrollo de proyectos avanzados y completo/
-https://www.udemy.com/course/php-masterclass-desarrollo-de-proyectos-avanzados-y-completo/?couponCode=914C8650E3E60AF50C7A
-
------
-level 1 japanese candlesticks trading mastery program/
-https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=NOV-2023-L1-FREE-1
-
------
-modernizing clinical trials framework technology beyond/
-https://www.udemy.com/course/modernizing-clinical-trials-framework-technology-beyond/?couponCode=COURSE2NOV07
-
------
-clinical trial foundations/
-https://www.udemy.com/course/clinical-trial-foundations/?couponCode=COURSE1NOV07
-
------
-powershell object oriented/
-https://www.udemy.com/course/powershell-object-oriented/?couponCode=OOPFOREVIEW
-
------
-python django the complete django web development course/
-https://www.udemy.com/course/python-django-the-complete-django-web-development-course/?couponCode=A62A45996AD9BC71A5CC
-
------
-flutter 20 firebase build a chat app for ios android/
-https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/?couponCode=65AAEC8B241015483840
-
------
-build a chat application with firebase and flutter/
-https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/?couponCode=EC4C97EAF3C9E005B22D
-
------
-master python web scraping automation using bs4 selenium/
-https://www.udemy.com/course/master-python-web-scraping-automation-using-bs4-selenium/?couponCode=C9657D41DA4BDCF18BF3
-
------
-the complete python django rest api development bootcamp/
-https://www.udemy.com/course/the-complete-python-django-rest-api-development-bootcamp/?couponCode=E071A3DFAAA8FEFEA136
-
------
-flutter rest api development course build a movie app/
-https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=6B6D687A553151BA231B
-
------
-dart flutter the complete flutter development course/
-https://www.udemy.com/course/dart-flutter-the-complete-flutter-development-course/?couponCode=2045777B34BD24405823
-
------
-foundations of university teaching and research excellence/
-https://www.udemy.com/course/foundations-of-university-teaching-and-research-excellence/?couponCode=F3E3831E17EB97FFF050
-
------
-como crear una pagina de ventas para hotmart/
-https://www.udemy.com/course/como-crear-una-pagina-de-ventas-para-hotmart/?couponCode=HOT-GR12
-
------
-como crear un embudo de ventas con wordpress desde cero/
-https://www.udemy.com/course/como-crear-un-embudo-de-ventas-con-wordpress-desde-cero/?couponCode=EMB-GR7
-
------
-corporate entrepreneurship/
-https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=35A29A9862DCDEAC7AE5
-
------
-the complete flutter ui course build amazing mobile ui/
-https://www.udemy.com/course/the-complete-flutter-ui-course-build-amazing-mobile-ui/?couponCode=631E4B20E7F5CC6EBF15
-
------
-c and java training crash course 2022/
-https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=DF8CD121307D0B01DC38
-
------
-css complete course for beginners/
-https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=304D5C18BB31D3FCDB0F
-
------
-upwork proposal mastery the complete guide proposal writing/
-https://www.udemy.com/course/upwork-proposal-mastery-the-complete-guide-proposal-writing/?couponCode=8F49AD30BA23F225C04B
-
------
-ethical hacking network exploitation basics/
-https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/?couponCode=MARIECURIE
-
------
-setup ubuntu server/
-https://www.udemy.com/course/setup-ubuntu-server/?couponCode=MARIECURIE
-
------
-python gui tkinter/
-https://www.udemy.com/course/python-gui-tkinter/?couponCode=MARIECURIE
-
------
-automate with python/
-https://www.udemy.com/course/automate-with-python/?couponCode=MARIECURIE
-
------
-browser automation with python selenium/
-https://www.udemy.com/course/browser-automation-with-python-selenium/?couponCode=MARIECURIE
-
------
-etabs from zero to hero/
-https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=2D4ECE5AB0429C599083
-
------
-learn bar bending schedule in autocad excel/
-https://www.udemy.com/course/learn-bar-bending-schedule-in-autocad-excel/?couponCode=6C3CAF372E141B7CD8E9
-
------
-learn chess in hindi zero to master level/
-https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=58C618246A5C266F8713
-
+Most Essential & Popular Excel Formulas And Functions - 2024----
+advanced microsoft excel formulas functions ----
+introduction to python development ----
+complete face recognition using sql database project ----
+upwork proposal mastery the complete guide proposal writing ----
+ai essentials introduction to artificial intelligence ----
+upwork proposal mastery the complete guide proposal writing ----
+complete face recognition using sql database project ----
+advanced microsoft excel formulas functions ----
+deep learning neural networks in python using case studies ----
+deep learning neural networks in python using case studies ----
+most essential popular excel formulas and functions ----
+advanced microsoft excel formulas functions ----
+introduction to python development ----
+complete face recognition using sql database project ----
+complete face recognition using sql database project ----
+introduction to python development ----
+advanced microsoft excel formulas functions ----
+advanced microsoft excel formulas functions ----
+most essential popular excel formulas and functions ----
+deep learning neural networks in python using case studies ----
+deep learning neural networks in python using case studies ----
+java certification course with interview questions ----
+machine learning zero to hero hands on with tensorflow ----
+java spring framework complete course bundle ----
+java spring framework complete course bundle ----
+machine learning zero to hero hands on with tensorflow ----
+java certification course with interview questions ----
+deep learning neural networks in python using case studies ----
+most essential popular excel formulas and functions ----
+advanced microsoft excel formulas functions ----
+introduction to python development ----
+complete face recognition using sql database project ----
+upwork proposal mastery the complete guide proposal writing ----
+ai essentials introduction to artificial intelligence ----
