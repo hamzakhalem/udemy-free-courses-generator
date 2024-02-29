@@ -143,9 +143,10 @@ n = 0
 
 logo()
 print("[!] Only 30 coupons can be fetched so kindly do not input a value greater than 30")
-number = int(input(">>> How many coupons you need: "))
-if number >= 50:
-    print("[-] Invalid Input! Please try again")
+# number = int(input(">>> How many coupons you need: "))
+number = 99
+# if number >= 50:
+#     print("[-] Invalid Input! Please try again")
 number = number - 1
 file = open("free_coupons.txt", "w+",  encoding="utf-8")
 options = Options()
@@ -153,49 +154,49 @@ options.add_argument('--headless')
 driver = webdriver.Firefox(options=options)
 print("[+] Please wait for several minutes......")
 print("[+] Work in Progress!")
-if number <= 14:
-    while n <= number:
-        coupon_list = get_link("https://www.discudemy.com/all")
-        try:
-            link_of_coupon = get_coupon_link_from_list(coupon_list, n)
-        except NoSuchElementException or StaleElementReferenceException :
-            course_title = get_coupon_link_from_list_skip_add(coupon_list, n)
-        course_title = get_course_title(link_of_coupon)
-        file.write(course_title + "--\n")
-        # file.write(link_of_coupon + "\n\n")
-        sendtosite(course_title, link_of_coupon)
-        n = n + 1
+# if number <= 14:
+    # while n <= number:
+    #     coupon_list = get_link("https://www.discudemy.com/all")
+    #     try:
+    #         link_of_coupon = get_coupon_link_from_list(coupon_list, n)
+    #     except NoSuchElementException or StaleElementReferenceException :
+    #         course_title = get_coupon_link_from_list_skip_add(coupon_list, n)
+    #     course_title = get_course_title(link_of_coupon)
+    #     file.write(course_title + "--\n")
+    #     # file.write(link_of_coupon + "\n\n")
+    #     sendtosite(course_title, link_of_coupon)
+    #     n = n + 1
 
-if number > 14 and number <= 28:
-    while n <= number:
-        coupon_list = get_link("https://www.discudemy.com/all")
-        try:
-            link_of_coupon = get_coupon_link_from_list(coupon_list, n)
-        except NoSuchElementException or StaleElementReferenceException :
-            link_of_coupon = get_coupon_link_from_list_skip_add(coupon_list, n)
-        course_title = get_course_title(link_of_coupon)
-        print(course_title)
-        file.write("-----\n" +course_title + "\n")
-        # file.write(link_of_coupon + "\n\n")
-        sendtosite(course_title, link_of_coupon)
-        n = n + 1
-        if n == 14:
-            print('inside 181')
-            file.close()
-            n = n - 14
-            number = number - 14
-            while n <= number:
-                coupon_list = get_link("https://www.discudemy.com/all/2")
-                try:
-                    link_of_coupon = get_coupon_link_from_list(coupon_list, n)
-                except NoSuchElementException or StaleElementReferenceException :
-                    link_of_coupon = get_coupon_link_from_list_skip_add(coupon_list, n)
-                new_modifications = open("free_coupons.txt", "a+" , encoding="utf-8")
-                course_title = get_course_title(link_of_coupon)
-                new_modifications.write("-----\n" +course_title + "\n")
-                # new_modifications.write(link_of_coupon + "\n\n")
-                sendtosite(course_title, link_of_coupon)
-                n = n + 1
+# if number > 14 and number <= 28:
+    # while n <= number:
+    #     coupon_list = get_link("https://www.discudemy.com/all")
+    #     try:
+    #         link_of_coupon = get_coupon_link_from_list(coupon_list, n)
+    #     except NoSuchElementException or StaleElementReferenceException :
+    #         link_of_coupon = get_coupon_link_from_list_skip_add(coupon_list, n)
+    #     course_title = get_course_title(link_of_coupon)
+    #     print(course_title)
+    #     file.write("-----\n" +course_title + "\n")
+    #     # file.write(link_of_coupon + "\n\n")
+    #     sendtosite(course_title, link_of_coupon)
+    #     n = n + 1
+    #     if n == 14:
+    #         print('inside 181')
+    #         file.close()
+    #         n = n - 14
+    #         number = number - 14
+    #         while n <= number:
+    #             coupon_list = get_link("https://www.discudemy.com/all/2")
+    #             try:
+    #                 link_of_coupon = get_coupon_link_from_list(coupon_list, n)
+    #             except NoSuchElementException or StaleElementReferenceException :
+    #                 link_of_coupon = get_coupon_link_from_list_skip_add(coupon_list, n)
+    #             new_modifications = open("free_coupons.txt", "a+" , encoding="utf-8")
+    #             course_title = get_course_title(link_of_coupon)
+    #             new_modifications.write("-----\n" +course_title + "\n")
+    #             # new_modifications.write(link_of_coupon + "\n\n")
+    #             sendtosite(course_title, link_of_coupon)
+    #             n = n + 1
 
 page = 0
 if number > 28 :
