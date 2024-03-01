@@ -1,85 +1,168 @@
-Professional Diploma in WEB3 NFT Business----
-complete course for beginners for solar energy ----
-professional diploma in advertising and public relations ----
-machine learning and deep learning projects in python ----
-advanced data visualization with python ----
-python and machine learning in financial analysis ----
-mastering research proposal writing a step by step guide v ----
-executive diploma in leadership and management ----
-journey from campus to corporate ----
-fiverr mastery unlock the secrets of gig ranking and seo ----
-project management proficiency 1500 pmp practice questions ----
-tekla structures modeling drawing zero to hero ----
-como crear una tienda online con inteligencia artificial ----
-financial accounting subsidiary ledgers special journals ----
-iso 31000 guidelines ----
-amazon no content publish profitable kdp low content books ----
-php beginner to advanced ----
-curso de manualidades y adornos navidenos ----
-elementor kits crea una pagina web con elementor pro ----
-como crear una tienda online con wordpress desde cero ----
-elementor ia crea una web con wordpress y elementor ----
-professional diploma in social media marketing copywriting ----
-level 1 japanese candlesticks trading mastery program ----
-mini mba in marketing public relations and advertising ----
-the complete introduction to c programming ----
-python introduction to data science and machine learning a z ----
-full arduino course for beginners ----
-learn functions function expressions in modern javascript ----
-how to become a skilled interviewer ----
-how to get calls for an interview for a desired role ----
-architectural shop drawing plans in autocad 2020 ----
-unit economics crm ltv churn retention rates cohorts ----
-mern stack with project ----
-the complete monday masterclass ----
-aerospace engineering aircraft design project course ----
-aerospace engineering the complete aerodynamics course ----
-ielts mastery ----
-media training for beginners ----
-media training for print interviews and online publications ----
-looking good on tv how to prepare for the video camera ----
-looking good on tv how to prepare for the video camera ----
-looking good on tv how to prepare for the video camera ----
-how to give a persuasive speech ----
-how to deliver an ipo roadshow presentation ----
-how to give a boardroom speech ----
-how to give a sales presentation ----
-how to give a virtual keynote speech ----
-how to be a government spokesperson ----
-primavera p6 learning foundations ----
-project schedule management oracle primavera p6 foundations training ----
-learn how to create variables in modern javascript ----
-how to do well in your interviews ----
-master building blog site affordable choice for bloggers ----
-professional diploma of the executive assistant ----
-unity tutorial from scratch till infinity ----
-excellence in interpersonal skills ----
-excellence in solutions design ----
-excellence in product management ----
-excellence in problem solving ----
-learn in 69 mins how to make right career choices ----
-professional diploma in business english and communications ----
-graphics design videoediting course ----
-advanced excel course for job and real world ----
-advanced powerpoint course for professional and job success ----
-adobe illustrator course for beginner ----
-c training crash course 2022 ----
-financial accounting inventory costs ----
-financial accounting accounting cycle ----
-process costing system cost accounting managerial accounting ----
-job order costing system managerial accounting ----
-financial accounting debits credits accounting transaction ----
-financial accounting adjusting entries financial statement ----
-financial accountinginventory merchandising transactions ----
-accounting bonds payable notes payable liabilities ----
-cash bank reconciliations cash internal controls ----
-quickbooks desktop 2018 vs excel ----
-quickbooks online vs excel ----
-financial accounting closing process ----
-receivables the allowance vs the direct write off methods ----
-relevant costs managerial accounting decisions scenarios ----
-flexible budgets standard costs variance analysis ----
-master budgets managerial accountingcost accounting ----
-quickbooks online bank feeds credit card feeds ----
-time value of money capital budgeting present value ----
-quickbooks desktop vs qbo multiple currencies ----
+JavaScript Projects Course Build 20 Projects in 20 Days
+----
+20 web projects with html css and javascript master js 
+----
+android apps development masterclass build 2 apps java 
+----
+digitisation 
+----
+data analytics ui ux machine learning complete course 
+----
+strategic creative thinking 
+----
+revit template masterclass for revit users and bim modelers 
+----
+master en comercio electronico con wordpress 
+----
+como crear un blog con wordpress para principiantes 
+----
+website design course for small business owners 
+----
+ethically hack the planet part 1 
+----
+network mastery for ethical hackers 
+----
+the complete journaling course build self awareness habits 
+----
+body language in the workplace 2018 
+----
+presentation skills for beginners 
+----
+how to be a tv pundit 
+----
+how teachers and educators can lecture more effectively 
+----
+how to deliver a powerpoint presentation 
+----
+how to deliver technology presentations 
+----
+como crear una academia online con wordpress y tutor lms 
+----
+kotlin course arabic 
+----
+android kotlin development from zero to hero 2022 arabic 
+----
+learn java to master 
+----
+linux heim server fuer durchstarter 
+----
+einstieg in die objektorientierte programmierung mit arduino 
+----
+css javascript and php complete course for beginners 
+----
+python and django framework and html 5 complete course 2022 
+----
+sales operations strategies and frameworks for selling more 
+----
+professional diploma in digital business development 
+----
+systemisches leadership 
+----
+business development sales marketing professional diploma 
+----
+power resume and cv writing that lands job interviews 
+----
+javascript for beginners the complete introduction to js 
+----
+the complete shopify store creation course 
+----
+using powershell advanced automated file management 
+----
+learn php for beginners php crash course 2021 
+----
+the complete business process reengineering master class 
+----
+the complete career coaching course career development 
+----
+complete recruiting course human resources recruitment 
+----
+complete google certified educator level 1 masterclass 
+----
+complete google slides course create stunning slides 
+----
+the complete one hour perfect posture habits course 
+----
+complete hypnosis weight loss course dieting psychology 
+----
+the complete personal networking course networking mastery 
+----
+the beginners guide to bash scripting and automation 
+----
+windows command mastery for ethical hackers 
+----
+mastering kali linux for ethical hackers 
+----
+ethically hack the planet part 4 
+----
+ethically hack the planet part 3 
+----
+c level management 100 models for business success part 2 
+----
+entrepreneurship ideas market analysis competitors place 
+----
+facebook page 2022 
+----
+meistere hardware protokolle mit esp32 und arduinos 
+----
+coaching und beratung treffen auf ki 
+----
+workshops systemic conception and design 
+----
+node red iot programmierung mit esp32 und mqtt 
+----
+essential excel for beginner to advanced 
+----
+digital platforms and ecosystems business and partnership 
+----
+adobe graphics design video editing 
+----
+adobe premiere pro cc video editing course for beginners 
+----
+entrepreneurship and business essentials 
+----
+make money online training 
+----
+executive diploma of cio chief information officer 
+----
+como crear una tienda online con inteligencia artificial 
+----
+entrepreneurship and business motivation 
+----
+professional diploma in agile product management 
+----
+executive diploma of vice president chief innovation officer 
+----
+professional diploma in customer relationship management crm 
+----
+executive diploma in strategy and innovation 
+----
+professional diploma in web3 nft and nft smart contracts 
+----
+professional diploma in web3 nft business 
+----
+complete course for beginners for solar energy 
+----
+professional diploma in advertising and public relations 
+----
+executive diploma in leadership and management 
+----
+journey from campus to corporate 
+----
+tekla structures modeling drawing zero to hero 
+----
+financial accounting subsidiary ledgers special journals 
+----
+professional diploma in life coaching business mentorship 
+----
+curso de manualidades y adornos navidenos 
+----
+elementor kits crea una pagina web con elementor pro 
+----
+como crear una tienda online con wordpress desde cero 
+----
+elementor ia crea una web con wordpress y elementor 
+----
+professional diploma in social media marketing copywriting 
+----
+level 1 japanese candlesticks trading mastery program 
+----
