@@ -89,7 +89,13 @@ def get_coupon_link_from_list(list,n):
         url = elemnt.get_attribute("href")
         driver.get(url)
         link = driver.find_element_by_partial_link_text("https://www.udemy.com/").get_attribute("href")
+        # first_header_element = driver.find_element_by_css_selector('.ui-header')
 
+        # # Get the text content of the first header element
+        # header_text_content = first_header_element.text
+
+        # # Print the text content
+        # print("Text content of the first ui-header class:", header_text_content)
         
         return link
 
