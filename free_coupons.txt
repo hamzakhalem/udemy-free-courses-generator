@@ -1,126 +1,168 @@
-Web Development Professional Certification
-----
-healthcare leadership clinical leadership 
-----
-ios 16 swift complete app development 
-----
-agile ways of working workshop 
-----
-unity game wax blockchain 
-----
-unity game wax blockchain 
-----
-2020 millennial insta marketing grow 10k organic followers 
-----
-wordpress no coding domain not needed within three and a half hours 
-----
-mastering dalle artistry ai creative revolution 
-----
-tiktok marketing 2021 go viral with authentic videos 
-----
-instagram reels marketing 
-----
-data architecture big data architecture data mesh database management 
-----
-interviewing skills career development resume cv writing linkedin 
-----
-elisa technique application in poultry industry 
-----
-learn java to master 
-----
-chatbot technology google bard ai 
-----
-learn android app development in hindi build 10 application 
-----
-qbo class tracking projects location tracking tags job 
-----
-residential rental property tax preparation 2021 2022 
-----
-android course build 3 applications from scratch with java 
-----
-master android application build 3 applications from scratch 
-----
-master android by building 3 applications in kotlin language 
-----
-10 html css js projects html5 css3 and vanilla javascript 
-----
-android very basic app development course with java in hindi 
-----
-seo 2023 
-----
-android projects course build 3 applications from scratch 
-----
-build a quiz app with java on android studio beginner course 
-----
-android apps development masterclass build 2 apps java 
-----
-30 html css javascript projects a beginners guide to js 
-----
-boost your portfolio with 20 html css javascript projects 
-----
-20 web projects with html css and javascript master js 
-----
-javascript 20 projects in 20 days html css javascript 
-----
-javascript projects course build 20 projects in 20 days 
-----
-javascript 10 projects in 10 days course for beginners 
-----
-how to build a successful amazon self publishing business 
-----
-lean six sigma green belt assessment 
-----
-build a chat application with firebase and flutter 
-----
-python django the complete django web development course 
-----
-python django the complete django web development course 
-----
-master python web scraping automation using bs4 selenium 
-----
-flutter 20 firebase build a chat app for ios android 
-----
-flutter rest api development course build a movie app 
-----
-the complete chatgpt guide from zero to hero 2023 
-----
-ultimate tallyprime with gst step by step guide 2021 
-----
-microsoft power platform microsoft power bi 
-----
-master course of art gallery management 
-----
-master course of international business 
+Network Mastery for Ethical Hackers
 ----
 windows command mastery for ethical hackers 
 ----
-time management personal office productivity management skills 
+cortezlabs ai driven cybersecurity 
 ----
-leadership management skills personal development 
+bim rhino 3d from zero to advanced level full course 
 ----
-data science machine learning interview projects 
+the complete python bootcamp from zero to expert 
 ----
-public speaking leadership 
+lightburn beginner 
 ----
-circular economy sustainable development 
+fiverr mastery unlock the secrets of gig ranking and seo 
 ----
-e commerce augmented reality virtual reality 
+java fundamentals course for beginners 
 ----
-operational risk management orm 
+the ultimate sql bootcamp go from zero to hero 
 ----
-executive coaching leadership 
+materialproduction 
 ----
-web frameworks 
+certificate in heat ventilation and air conditioning system 
 ----
-logistics and suppy chain management 
+servantleader 
 ----
-business intelligence data modeling 
+diploma hospital cost accounting 
 ----
-business analysis business analyst 
+hospital diploma 
 ----
-pmp project management 
+drsamfcc 
 ----
-the lean startup it startup master course 
+learn linux operating system from basic to advanced 
 ----
-business consulting management consulting 
+mastering leadership skills 
+----
+microsoft excel learn excel by creating diverse projects 
+----
+diploma in mechanical quantity surveying 
+----
+master en elementor desde cero hasta experto 
+----
+directorio de plugins para wordpress 
+----
+elementor ia crea una web con wordpress y elementor 
+----
+beginner guide to learn t shirt design with photoshop 
+----
+learn advanced excel formulas functions vba macros 
+----
+kotlin programming for beginner 
+----
+diy public relations pr through youtube video 
+----
+mwurstui 
+----
+fundraising ask and raise contributions for your charity 
+----
+php 8 guide 2021 edition 
+----
+advanced public speaking 
+----
+nfifedvr 
+----
+political candidate media and public speaking training 
+----
+how to ask for a raise2 
+----
+democratic candidate communications training 
+----
+body language for speakers 
+----
+selling with online video 
+----
+crisis communications how to survive a crisis in the media 
+----
+how to create a digital tv network 
+----
+eliminate your fear of public speaking 
+----
+how to give a ted talk 
+----
+job interviews how to talk to prospective employers 
+----
+fluttercourse 
+----
+python science 
+----
+wcsjwvoc 
+----
+vcojcteq 
+----
+amdbdfbs 
+----
+pixel art in adobe photoshop cc 
+----
+restaurant accounting diploma 
+----
+certified accounting standards expert encyclopedia 
+----
+planning budgeting diploma 
+----
+internal auditor diploma 
+----
+diploma financial analysis 
+----
+diploma financial accounting 
+----
+java for beginners learn all the basics of java 
+----
+diploma restaurant accounting 
+----
+certified cost accountant diploma 
+----
+c and java training crash course 2022 
+----
+css complete course for beginners 
+----
+mastering sales prospecting unlock lucrative opportunities 
+----
+dbms module 4 
+----
+linear equation part 2 linear equations in two variables 
+----
+probability part 4 
+----
+dbms advantages disadvantages locking isolation levels 
+----
+probability part i 
+----
+introduction to bar graphs 
+----
+exploring frequency distribution tables part 2 
+----
+linear equation part i linear equation in one variable 
+----
+mastering c plus language c programming for beginners 
+----
+bim revit architecture full course from zero to advanced 
+----
+simulation of electronic circuits by proteus in arabic 
+----
+learn windows server 2022 in an easy way basics to advanced 
+----
+build responsive website using html5 css3 js and bootstrap p 
+----
+edraw max 
+----
+earn from photography complete guideline 
+----
+java groundup 
+----
+learn ui ux design adobe xd figma uiuxdesign 
+----
+innovations 
+----
+project based professional photoshop 
+----
+bim revit structure full course from beginner to advanced q 
+----
+advanced ms word course from beginner to expert 
+----
+project development using java for beginners 2020 
+----
+swift swiftui ios 
+----
+automated a manufacturing business from a to z with odoo ai 
+----
+manufacturing sustainability a to z with odoo systems ai 
 ----
