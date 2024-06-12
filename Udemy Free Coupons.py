@@ -89,13 +89,6 @@ def get_coupon_link_from_list(list,n):
         url = elemnt.get_attribute("href")
         driver.get(url)
         link = driver.find_element_by_partial_link_text("https://www.udemy.com/").get_attribute("href")
-        # first_header_element = driver.find_element_by_css_selector('.ui-header')
-
-        # # Get the text content of the first header element
-        # header_text_content = first_header_element.text
-
-        # # Print the text content
-        # print("Text content of the first ui-header class:", header_text_content)
         
         return link
 
@@ -133,17 +126,27 @@ def get_course_title(link):
         element = WebDriverWait(driver, 5).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'h1[data-purpose="lead-title"]'))
         )
+        parent_element = driver.find_element_by_xpath("//*[contains(@class, 'img-aspect')][1]")
+
+        # Find the child "img" element within the parent element
+        img_element = parent_element.find_element_by_tag_name("img")
+
+        # Get the value of the "src" attribute
+        img_src = img_element.get_attribute("src")
+
+        # Print the image source URL
+        print("Image Source:", img_src)
         print("Element exists on the page.")
     except TimeoutException:
         title = clean_url.replace("https://www.udemy.com/course/", "")
         title = title.replace('-',' ')
         title = title.replace('_',' ')
         title = title.replace('/',' ')
-        return title
+        return title, 'N/A'
         print("Element was not found within the specified timeout.")
     # first_h1 = driver.find_element_by_css_selector('h1[data-purpose="lead-title"]')
     title = element.text 
-    return title
+    return title, img_src
     # return ""
 n = 0
 
@@ -172,7 +175,9 @@ if number > 28 :
             link_of_coupon = get_coupon_link_from_list(coupon_list, n)
         except NoSuchElementException or StaleElementReferenceException :
             link_of_coupon = get_coupon_link_from_list_skip_add(coupon_list, n)
-        course_title = get_course_title(link_of_coupon)
+        course_title, img_src = get_course_title(link_of_coupon)
+        # course_title = get_course_title(link_of_coupon)
+
         print(course_title)
         file.write(course_title + "\n----\n")
         sendtosite(course_title, link_of_coupon)
