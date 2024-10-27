@@ -15,12 +15,4 @@ bucket_name = 'proctoring-stg'
 response = s3.get_object(Bucket=bucket_name, Key=keyname)
 object_content = response['Body'].read()
 print(object_content[:100])
-# List all objects in the bucket
-# for obj in s3.list_objects_v2(Bucket=bucket_name)['Contents']:
-#     response = s3.get_object(Bucket=bucket_name, Key=obj['Key'])
-    
-#     # Read and print the object content
-#     object_content = response['Body'].read().decode('utf-8')
-#     if(obj['Key']=="Hello_QUIZ_admin-1711460276.webm"):
-#         print(f"Content of object '{obj['Key']}':")
-#         print(object_content)
+
