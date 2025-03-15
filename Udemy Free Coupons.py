@@ -168,9 +168,9 @@ page = 0
 if number > 28 :
     while n <= number:
         endpoint =math.ceil((page+1 )/ 14)
+        endpoint = "https://www.discudemy.com/all/"+ str(endpoint)
         print(endpoint)
-        
-        coupon_list = get_link("https://www.discudemy.com/all/"+ str(endpoint))
+        coupon_list = get_link(endpoint)
         try:
             link_of_coupon = get_coupon_link_from_list(coupon_list, n)
         except NoSuchElementException or StaleElementReferenceException :
