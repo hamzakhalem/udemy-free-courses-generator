@@ -1,4 +1,88 @@
-Complete JavaScript Programming: From Novice to Expert
+Learn Ethical Hacking and Penetration Testing | EHPT+
+----
+how to introduce yourself 
+----
+how to speak on radio 
+----
+how to improve your voice 
+----
+how to make an investor pitch presentation 
+----
+excel from zero to pro 
+----
+corporate entrepreneurship 
+----
+create viral ai video using chatgpt for affiliate marketing 
+----
+leadership potholes 
+----
+hacking network 
+----
+microsoft excel excel only for beginners 
+----
+c sharp mastering course for professionals 
+----
+c sharp mastering course for intermediates 
+----
+c sharp mastering course for beginners 
+----
+javascript from scratch beginner level 
+----
+cold email mastery with ai ultimate lead generation system 
+----
+python for data science pro the complete mastery course 
+----
+javascript jquery typescript full stack web development 
+----
+numpy scipy matplotlib pandas a z machine learning 
+----
+the complete python bootcamp from zero to expert 
+----
+css and javascript complete course for beginners 
+----
+esg basics for a sustainable future 
+----
+build backend api node js and react frontend 
+----
+build a simple react app from scratch 
+----
+concentration ultime 
+----
+ne plus echouer 
+----
+business app development by llms 
+----
+certified lean management professional course 
+----
+the concept of waste 
+----
+the seven basic quality tools masterclass 
+----
+the complete matlab course for wireless comm engineering 
+----
+curso wordpress como crear un blog gratis paso a paso 
+----
+fundamentals of cloud computing a 
+----
+dart mastery become a dart master from hero to zero dart 
+----
+operations management 
+----
+personal productivity 
+----
+c training crash course 2022 
+----
+create a project tracker 
+----
+excellent python 3 bootcamp in 2023 
+----
+git and github a practical course beginner to advanced 
+----
+numpy for data science and machine learning 
+----
+data analysis with pandas a complete tutorial 
+----
+complete javascript programming from novice to expert 
 ----
 mongodb the complete mongodb developers course 
 ----
@@ -60,27 +144,17 @@ essentials user experience design adobe xd ui ux design
 ----
 adobe after effect essential learn video motion animation 
 ----
-complete wifi hacking course 
-----
 terraform and ansible 
 ----
-the complete c programming course for basic to expert 
-----
-complete python course learn from beginner to advanced 
-----
-the complete mysql bootcamp go from beginner to expert 
-----
-reactjs the complete reactjs course for beginners 
-----
-html css java javascript full stack programming course 
-----
-complete java programming bootcamp learn to code in java 
+chatgpt midjourney 23 proven methods to earn with ai 
 ----
 css bootstrap javascript web development course 
 ----
 python complete course and flask framework html 2024 edition 
 ----
-smm social media marketing 
+complete ai guide 
+----
+innovations 
 ----
 implementing agile marketing and marketing sprints 
 ----
@@ -92,13 +166,7 @@ make a wordpress website with elementor
 ----
 upwork win freelance world 
 ----
-generative ai for personal productivity 
-----
-unlocking grok ai for business and marketing 
-----
 ai to empower your marketing team 
-----
-deepseek r1 for business and marketing harness ai insights 
 ----
 master marketing automation with microsoft copilot 
 ----
@@ -110,6 +178,8 @@ web analytics with similarweb from basic to pro
 ----
 account based marketing increase your b2b efficiency 
 ----
+how to create your perfect linkedin outreach campaign 
+----
 chatgpt digital marketing 
 ----
 personal digital security everyone must have cybersecurity 
@@ -120,79 +190,9 @@ wastewater treatment explained
 ----
 introduction to reverse osmosis desalination 
 ----
-iso 37001 2016 preventing bribery corruption in business 
+ISO 37001: 2016 Preventing Bribery & Corruption in Business
 ----
 iso 140012015 the environmental stewardship blueprint 
 ----
-metasploit from scratch beginner to professional 
-----
 recon ninja advanced info gathering for ethical hackers 
-----
-unlock your potential personal development mastery 
-----
-javascript for beginners complete course 
-----
-como crear una tienda online con wordpress y woocommerce 
-----
-curso de wp rocket como mejorar la velocidad de una web de wordpress 
-----
-como crear una pagina web con wordpress y elementor 
-----
-como crear una tarjeta de presentacion digital con wordpress 
-----
-como crear correos corporativos con dominio propio en gmail 
-----
-financemanagement 
-----
-hands on react js from beginner to expert 
-----
-angularjs essentials from beginner to advanced developer 
-----
-capcut mastery create stunning social media videos 
-----
-complete advanced canva for video editing for social media 
-----
-product owner certification agileenterprisecoach 
-----
-scrum master certification aecl 
-----
-agile fundamentals certification 
-----
-master scrum basics 
-----
-safe general overview course aece 
-----
-presentations with chatgpt aece 
-----
-chatgpt for product management innovation aece 
-----
-agile coach certification aec 
-----
-agile trainer certification aec 
-----
-presentations with chatgpt aec 
-----
-adobe indesign cc for beginner to advanced masterclass 
-----
-adobe illustrator cc for learning graphics design 
-----
-copywriting businesswriting 
-----
-learn filmora for video editing masterclass course 
-----
-adobe premiere pro cc masterclass for video editing 
-----
-ethical hacking web app hacking 
-----
-how to be an expert2 
-----
-media trainer how to become a media trainer 
-----
-eliminate your fear of public speaking 
-----
-college admissions interview confidently talk about yourself 
-----
-Complete Graphics Design MasterClass with Video Editing
-----
-complete video editing bootcamp beginner to advanced 
 ----
