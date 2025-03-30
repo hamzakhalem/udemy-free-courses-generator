@@ -609,3 +609,164 @@ s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
 JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9276cc50cd5d2835&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1743161463091	Marionette	INFO	Stopped listening on port 58065
 Dynamically enable window occlusion 1
+1743338168004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUBIX\\AppData\\Local\\Temp\\rust_mozprofilecDh25p"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1743338169948	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1743338170070	Marionette	INFO	Listening on port 50168
+1743338170136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509682~102788824~102803279~102813109~102887800~102926062~102964103, line 809: Script terminated by timeout at:
+h.oi@https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509682~102788824~102803279~102813109~102887800~102926062~102964103:809:30
+get@https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509682~102788824~102803279~102813109~102887800~102926062~102964103:807:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509682~102788824~102803279~102813109~102887800~102926062~102964103:807:87
+h.Ul/c/<@https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509682~102788824~102803279~102813109~102887800~102926062~102964103:807:410
+
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27508
+f/n.vs/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27169
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9287a75b7cdcbaa1&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27508
+f/n.vs/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27169
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+console.error: ({})
+JavaScript error: https://www.discudemy.com/academic/gmat-quantitative-master-course, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/gmat-quantitative-master-course, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27508
+f/n.vs/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27169
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9287a82cef8cba90&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9287a890eb80ba90&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27508
+f/n.vs/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27169
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9287a8c34ee6ba90&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27508
+f/n.vs/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27169
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/build-modern-php-api/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/concentration-ultime/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ne-plus-echouer/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/gmat-quantitative-master-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/build-modern-php-api/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/concentration-ultime/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ne-plus-echouer/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/gmat-quantitative-master-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/build-modern-php-api/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/concentration-ultime/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ne-plus-echouer/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/gmat-quantitative-master-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/build-modern-php-api/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/concentration-ultime/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ne-plus-echouer/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/gmat-quantitative-master-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/build-modern-php-api/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/concentration-ultime/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ne-plus-echouer/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/gmat-quantitative-master-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/build-modern-php-api/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/concentration-ultime/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ne-plus-echouer/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/gmat-quantitative-master-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/" ({})
+1743355088123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUBIX\\AppData\\Local\\Temp\\rust_mozprofileXsayJJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1743355090353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1743355090475	Marionette	INFO	Listening on port 52592
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1743355090880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.datadoghq-browser-agent.com/us1/v4/datadog-rum.js, line 1: Script terminated by timeout at:
+d@https://www.datadoghq-browser-agent.com/us1/v4/datadog-rum.js:1:743
+l/<@https://www.datadoghq-browser-agent.com/us1/v4/datadog-rum.js:1:712
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928944b9accc282a&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928944fd7ca02834&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509683~102788824~102803279~102813109~102887799~102926062, line 809: Script terminated by timeout at:
+h.Ul/<@https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509683~102788824~102803279~102813109~102887799~102926062:809:187
+h.Ul/c/<@https://www.googletagmanager.com/gtag/js?id=G-7YMFEFLR6Q&l=dataLayer&cx=c&gtm=45He53q1v6164179za200&tag_exp=102482433~102509683~102788824~102803279~102813109~102887799~102926062:808:418
+sentryWrapped@https://browser.sentry-cdn.com/6.11.0/bundle.min.js:2:56054
+
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27508
+f/n.vs/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27169
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto, line 1: Script terminated by timeout at:
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58114
+f5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58995
+fb@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:101652
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58552
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58955
+f5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58995
+fb@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:101652
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58552
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58955
+f5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58995
+fb@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:101674
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58552
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58955
+f5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58995
+fb@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:101652
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58552
+f5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58955
+f5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=928945316d1d2834&lang=auto:1:58995
+
+1743355152568	Marionette	INFO	Stopped listening on port 52592
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/CaptiveDetect.sys.mjs, line 20: : 
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript warning: https://browser.sentry-cdn.com/6.11.0/bundle.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/6.11.0/bundle.min.js:2:55862
+
+JavaScript warning: https://browser.sentry-cdn.com/6.11.0/bundle.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/6.11.0/bundle.min.js:2:55862
+
