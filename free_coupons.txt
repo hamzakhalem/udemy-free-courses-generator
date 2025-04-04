@@ -1,22 +1,74 @@
-Curso de Instagram 2025, ¡Desde Cero Hasta Experto!
+The Complete C++ Programming Course from Basic to Expert
 ----
-angular web design 
+numpy programming mastery learn python for data analysis 
+----
+django masterclass get started with django web development 
+----
+r programming r programming language beginners to pro 
+----
+html css java javascript full stack programming course 
+----
+javascript jquery typescript full stack web development 
+----
+python for data science pro the complete mastery course 
+----
+google ads masterclass 2021 all campaign creations 
+----
+workplace productivity supporting others through change 
+----
+total quality management certification 
+----
+plan do check act pdca 
+----
+fundamentals of successful leadership leading with impact 
+----
+python complete course for beginners 
+----
+css javascript and php complete course for beginners 
+----
+the ultimate seo course 2024 beginner to advanced seo 
+----
+user experience design learn ui ux app design with figma 
+----
+the complete figma course design portfolio website 
+----
+productivity and effectiveness 
+----
+webinar online marketing 
+----
+online marketing sales funnel grundlagen 
+----
+elevate your leadership amplify your communication skills 
+----
+tiktok marketing course for beginners 
+----
+facebook marketing course for beginners 
+----
+google analytics ga4 gtm for beginners 
+----
+google analytics certification how to pass the exam 
+----
+wordpress and hosting for beginners 
+----
+b2b outbound lead generation mastery 
+----
+instagram marketing practical course 
+----
+seo strategy 
+----
+content marketing strategy course 
+----
+keyword research 
 ----
 firebase database crud android app development 
 ----
 c sharp basics to professional level c sharp coding 
-----
-android studio complete guide of android app development 
-----
-premiere pro video editing basics to master adobe premiere 
 ----
 augmented reality ar 
 ----
 basic of computer 
 ----
 solid works in hindi basic to industrial level 
-----
-terraform certification basics to professional short course 
 ----
 curso basico de mailerlite crea automatizaciones de correo 
 ----
@@ -26,9 +78,9 @@ uncle rats bug bounty guide
 ----
 python programming mastery from beginner to pro 
 ----
-build a simple react app from scratch 
+introduction to software engineering 
 ----
-mental pour reussir 
+build a simple react app from scratch 
 ----
 brain computer interface with deep learning 
 ----
@@ -54,13 +106,11 @@ mastering c learn building games application softwares
 ----
 advanced instagram marketing blueprint complete guide 
 ----
+build 11 javascript application and web javascript bootcamp 
+----
 complete advanced canva for video editing for social media 
 ----
-build 8 python apps games and web application python master 
-----
 neural network from zero 
-----
-mysql for everyone 
 ----
 practical nextjs 
 ----
@@ -72,15 +122,11 @@ javascript master course from beginner to expert developer
 ----
 python software application games automation development 
 ----
-python programming build a strong foundation in coding 
-----
-learn php programming create dynamic websites with mysql 
-----
 t shirt design for beginner to advanced with adobe photoshop 
 ----
 complete video editing bootcamp beginner to advanced 
 ----
-the ultimate sql bootcamp go from zero to hero 
+web development bootcamp with html css php mysql wordpress 
 ----
 uiux with figma and adobe xd 
 ----
@@ -88,17 +134,9 @@ youtube masterclass with video editing and graphics design
 ----
 nail your job interview build confidence and master english 
 ----
-full paid ads course google facebook microsoft linkedin 
-----
 postgresql bootcamp complete beginner to advanced course 
 ----
-php bootcamp the complete programming course with mysql 
-----
-adobe photoshop cc for photo editing and image retouching 
-----
 adobe photoshop cc masterclass from beginner to advanced 
-----
-chatgpt complete chatgpt guide for beginners 
 ----
 microsoft excel excel only for beginners 
 ----
@@ -110,6 +148,8 @@ unleash your full potential learn english now
 ----
 diversity recruitment and organizational success hr 
 ----
+master course selling into finance companies 
+----
 mastering customer service call control strategies 
 ----
 master course in value based selling 
@@ -118,8 +158,6 @@ master course inclusive product development design
 ----
 master course selling into the manufacturing industry 
 ----
-master couse consumer products retail 
-----
 master course selling into the pharmaceutical industry 
 ----
 leadership future thinking succession planning 
@@ -127,4 +165,24 @@ leadership future thinking succession planning
 master course developing business partnerships 
 ----
 sales discovery inside sales and inclusive marketing 
+----
+business process simplification 
+----
+learn arabic language fastonline arabic language course 
+----
+french language course learn french 
+----
+theory of constraints certification 
+----
+python complete course for beginners h 
+----
+CSS, Bootstrap And JavaScript And Python Stack Course
+----
+dart mastery become a dart master from hero to zero dart 
+----
+css fundamentals comprehensive training for web developers 
+----
+mastering html5 from beginner to advanced 
+----
+python course from zero to hero intermediate level 
 ----
