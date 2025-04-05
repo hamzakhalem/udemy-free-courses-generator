@@ -1,18 +1,162 @@
-The Complete C++ Programming Course from Basic to Expert
+Unleash Your Full Potential: Learn English Now!
 ----
-numpy programming mastery learn python for data analysis 
+agile scrum your path to psm certification 
 ----
-django masterclass get started with django web development 
+python development essentials 
 ----
-r programming r programming language beginners to pro 
+minimba in business management and entrepreneurship 
 ----
-html css java javascript full stack programming course 
+complete pelvic floor physical therapy exercise program 
 ----
-javascript jquery typescript full stack web development 
+python for beginners ef 
 ----
-python for data science pro the complete mastery course 
+food science and processing technology 
 ----
-google ads masterclass 2021 all campaign creations 
+patent strategies in biotechnology protecting innovations 
+----
+cell structure and function 
+----
+pharmaceutical production management course 
+----
+plant cell tissue culture course 
+----
+microbiome online course 
+----
+drug regulatory affair 
+----
+genetic engineering and its applications 
+----
+secrets of dna and its manipulation 
+----
+food microbiology probiotics 
+----
+bigdata analysis python 
+----
+python for data science real time exercises 
+----
+python numpy exercises 
+----
+adobe photoshop cc for graphic design the easy way 
+----
+the complete photoshop cc course beginner to advanced 
+----
+adobe photoshop cc essentials photoshop course zero to hero 
+----
+pricing strategies for product sales go to market 
+----
+master course big data for hr marketing and finance 
+----
+sustainability in business green business practices 
+----
+master course in behavioral finance 
+----
+master course in entrepreneurial finance 
+----
+international trade and import export management 20 
+----
+associate professional risk manager prm 
+----
+entrepreneurial orientation intention behavior culture 
+----
+small business management business negotiation skills 
+----
+strategic alliances in business mergers and acquisitions 
+----
+marketing for startups nonprofits b2b and b2c 
+----
+cssbootstrapjavascriptreact overview course for beginners 
+----
+java complete course using visual studio code 
+----
+python for beginners course  
+----
+master course in business process management bpm 
+----
+cthp certified tourism and hospitality professional 
+----
+mastering hr people analytics hr predictive analytics 20 
+----
+business competitive digital innovation growth strategy 
+----
+ethical ai and its implications for modern business 
+----
+emerging markets and business in developing countries 
+----
+embracing a skills first mindset for organization 
+----
+brand identity design positioning brand equity management 
+----
+virtual and stay interview user interviews and onboarding 
+----
+cplm certified professional logistics manager 
+----
+diversity recruitment and organizational success hr 
+----
+master course selling into finance companies 
+----
+mastering customer service call control strategies 
+----
+master course in value based selling 
+----
+leadership essentials for new managers 
+----
+master course inclusive product development design 
+----
+master course selling into the manufacturing industry 
+----
+master couse consumer products retail 
+----
+master course selling into the pharmaceutical industry 
+----
+leadership future thinking succession planning 
+----
+master course developing business partnerships 
+----
+java and php complete course 
+----
+elementor kits crea una pagina web con elementor pro 
+----
+corporate entrepreneurship 
+----
+ne plus echouer 
+----
+build modern php api 
+----
+forex day trading course powerful ict strategy 
+----
+ict forex day trading course 
+----
+forex day trading profits verified ict strategy 
+----
+diy public relations pr through youtube video 
+----
+political candidate media and public speaking training 
+----
+body language for speakers 
+----
+eliminate your fear of public speaking 
+----
+conquer pmp success essential guide for project management 
+----
+angularjs essentials from beginner to advanced developer 
+----
+capcut mastery create stunning social media videos 
+----
+chatgpt for product management innovation h 
+----
+data analysis bootcamp master data science skills 
+----
+ms excel masterclass for job seekers accounting success 
+----
+hands on python data science data science bootcamp 
+----
+hands on python machine learning with real world projects 
+----
+advanced capcut course learn professional video editing 
+----
+flutter masterclass your complete guide to app development 
+----
+pre algebra made easy the complete beginners guide 
 ----
 workplace productivity supporting others through change 
 ----
@@ -22,9 +166,9 @@ plan do check act pdca
 ----
 fundamentals of successful leadership leading with impact 
 ----
-python complete course for beginners 
-----
 css javascript and php complete course for beginners 
+----
+Fitness for Beginners - Training to lose fat & build muslce
 ----
 the ultimate seo course 2024 beginner to advanced seo 
 ----
@@ -50,139 +194,5 @@ google analytics certification how to pass the exam
 ----
 wordpress and hosting for beginners 
 ----
-b2b outbound lead generation mastery 
-----
 instagram marketing practical course 
-----
-seo strategy 
-----
-content marketing strategy course 
-----
-keyword research 
-----
-firebase database crud android app development 
-----
-c sharp basics to professional level c sharp coding 
-----
-augmented reality ar 
-----
-basic of computer 
-----
-solid works in hindi basic to industrial level 
-----
-curso basico de mailerlite crea automatizaciones de correo 
-----
-how to create a website with wordpress 2022 fast 
-----
-uncle rats bug bounty guide 
-----
-python programming mastery from beginner to pro 
-----
-introduction to software engineering 
-----
-build a simple react app from scratch 
-----
-brain computer interface with deep learning 
-----
-spacy with nlp 
-----
-deep reinforcement learning using python 
-----
-create real world php webapp from scratch 
-----
-build backend api node js and react frontend 
-----
-concentration ultime 
-----
-product owner certification agileenterprisecoach 
-----
-programming bootcamp with web and application development 
-----
-python web developer masterclass build 6 website 
-----
-canva social media masterclass graphic design video editing 
-----
-mastering c learn building games application softwares 
-----
-advanced instagram marketing blueprint complete guide 
-----
-build 11 javascript application and web javascript bootcamp 
-----
-complete advanced canva for video editing for social media 
-----
-neural network from zero 
-----
-practical nextjs 
-----
-hands on reactjs 
-----
-revit industrial office interior design structural and mep 
-----
-javascript master course from beginner to expert developer 
-----
-python software application games automation development 
-----
-t shirt design for beginner to advanced with adobe photoshop 
-----
-complete video editing bootcamp beginner to advanced 
-----
-web development bootcamp with html css php mysql wordpress 
-----
-uiux with figma and adobe xd 
-----
-youtube masterclass with video editing and graphics design 
-----
-nail your job interview build confidence and master english 
-----
-postgresql bootcamp complete beginner to advanced course 
-----
-adobe photoshop cc masterclass from beginner to advanced 
-----
-microsoft excel excel only for beginners 
-----
-virtual and stay interview user interviews and onboarding 
-----
-cplm certified professional logistics manager 
-----
-unleash your full potential learn english now 
-----
-diversity recruitment and organizational success hr 
-----
-master course selling into finance companies 
-----
-mastering customer service call control strategies 
-----
-master course in value based selling 
-----
-master course inclusive product development design 
-----
-master course selling into the manufacturing industry 
-----
-master course selling into the pharmaceutical industry 
-----
-leadership future thinking succession planning 
-----
-master course developing business partnerships 
-----
-sales discovery inside sales and inclusive marketing 
-----
-business process simplification 
-----
-learn arabic language fastonline arabic language course 
-----
-french language course learn french 
-----
-theory of constraints certification 
-----
-python complete course for beginners h 
-----
-CSS, Bootstrap And JavaScript And Python Stack Course
-----
-dart mastery become a dart master from hero to zero dart 
-----
-css fundamentals comprehensive training for web developers 
-----
-mastering html5 from beginner to advanced 
-----
-python course from zero to hero intermediate level 
 ----
