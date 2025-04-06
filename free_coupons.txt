@@ -1,4 +1,92 @@
-Unleash Your Full Potential: Learn English Now!
+Advanced Program in Product & CX Management and Development
+----
+the complete c and c plus programming course mastering c and c plus 
+----
+python java master backend frontend web developments 
+----
+c c php java complete guide to modern programming 
+----
+learn linux operating system from basic to advanced 
+----
+python complete course and flask framework html 2024 edition 
+----
+python pygame game development with coding exercises 
+----
+python numpy programming with coding exercises 
+----
+python selenium programming with coding exercises 
+----
+python excel openpyxl programming with coding exercises 
+----
+ms excel automation excel data analysis with python 
+----
+python numpy data analysis for data scientist ai ml dl 
+----
+the pandas bootcamp data analysis with pandas python3 
+----
+master classes for web design course html css js seo 
+----
+build a simple react app from scratch 
+----
+ne plus echouer 
+----
+hr diploma in performance management and employee development 
+----
+unit economics crm ltv churn retention rates cohorts 
+----
+hypnobreathwork transform your practice attract clients 
+----
+python development data science variables and data types 
+----
+web3 token gating create an nft gated website from scratch 
+----
+key metrics of unit economics cpa arpu cac arppu c1 
+----
+professional diploma in business presentation and communication 
+----
+html and css for web designers from basics to beautiful 
+----
+bootstrap 53 mastery build responsive websites like a pro 
+----
+complete jquery masterclass from beginner to expert 
+----
+frontend web development html5 css3 javascript and bootstrap 
+----
+business process optimization with lean six sigma 
+----
+executive diploma of chief digital officer 
+----
+mini mba in human resources management 
+----
+learning python for beginners 1 data types input format 
+----
+como crear una pagina de ventas para hotmart 
+----
+elementor hosting como crear una pagina web con wordpress 
+----
+como crear un blog con inteligencia artificial 
+----
+developing successful professional relationships 
+----
+talent acquisition hr planning recruiting and onboarding 
+----
+introduction a la gestion des ressources humaines 
+----
+contract negotiation i 
+----
+professional diploma in agile and project management 
+----
+professional diploma in coaching and mentoring 
+----
+professional diploma in branding and brand management 
+----
+ethical hacking metasploit 
+----
+the ultimate mysql crash course 2021 
+----
+generative ai in testing revolutionize your qa processes 
+----
+unleash your full potential learn english now 
 ----
 agile scrum your path to psm certification 
 ----
@@ -22,17 +110,13 @@ plant cell tissue culture course
 ----
 microbiome online course 
 ----
-drug regulatory affair 
-----
 genetic engineering and its applications 
+----
+computer aided drug design and discovery 
 ----
 secrets of dna and its manipulation 
 ----
 food microbiology probiotics 
-----
-bigdata analysis python 
-----
-python for data science real time exercises 
 ----
 python numpy exercises 
 ----
@@ -44,8 +128,6 @@ adobe photoshop cc essentials photoshop course zero to hero
 ----
 pricing strategies for product sales go to market 
 ----
-master course big data for hr marketing and finance 
-----
 sustainability in business green business practices 
 ----
 master course in behavioral finance 
@@ -54,11 +136,11 @@ master course in entrepreneurial finance
 ----
 international trade and import export management 20 
 ----
+international trade and import export management 20 
+----
 associate professional risk manager prm 
 ----
 entrepreneurial orientation intention behavior culture 
-----
-small business management business negotiation skills 
 ----
 strategic alliances in business mergers and acquisitions 
 ----
@@ -82,7 +164,7 @@ ethical ai and its implications for modern business
 ----
 emerging markets and business in developing countries 
 ----
-embracing a skills first mindset for organization 
+sphr 101 senior professional in human resources 
 ----
 brand identity design positioning brand equity management 
 ----
@@ -113,86 +195,4 @@ leadership future thinking succession planning
 master course developing business partnerships 
 ----
 java and php complete course 
-----
-elementor kits crea una pagina web con elementor pro 
-----
-corporate entrepreneurship 
-----
-ne plus echouer 
-----
-build modern php api 
-----
-forex day trading course powerful ict strategy 
-----
-ict forex day trading course 
-----
-forex day trading profits verified ict strategy 
-----
-diy public relations pr through youtube video 
-----
-political candidate media and public speaking training 
-----
-body language for speakers 
-----
-eliminate your fear of public speaking 
-----
-conquer pmp success essential guide for project management 
-----
-angularjs essentials from beginner to advanced developer 
-----
-capcut mastery create stunning social media videos 
-----
-chatgpt for product management innovation h 
-----
-data analysis bootcamp master data science skills 
-----
-ms excel masterclass for job seekers accounting success 
-----
-hands on python data science data science bootcamp 
-----
-hands on python machine learning with real world projects 
-----
-advanced capcut course learn professional video editing 
-----
-flutter masterclass your complete guide to app development 
-----
-pre algebra made easy the complete beginners guide 
-----
-workplace productivity supporting others through change 
-----
-total quality management certification 
-----
-plan do check act pdca 
-----
-fundamentals of successful leadership leading with impact 
-----
-css javascript and php complete course for beginners 
-----
-Fitness for Beginners - Training to lose fat & build muslce
-----
-the ultimate seo course 2024 beginner to advanced seo 
-----
-user experience design learn ui ux app design with figma 
-----
-the complete figma course design portfolio website 
-----
-productivity and effectiveness 
-----
-webinar online marketing 
-----
-online marketing sales funnel grundlagen 
-----
-elevate your leadership amplify your communication skills 
-----
-tiktok marketing course for beginners 
-----
-facebook marketing course for beginners 
-----
-google analytics ga4 gtm for beginners 
-----
-google analytics certification how to pass the exam 
-----
-wordpress and hosting for beginners 
-----
-instagram marketing practical course 
 ----
