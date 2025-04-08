@@ -1,4 +1,192 @@
-Microsoft Excel: Complete Excel from Beginner to Advanced
+Machine Learning & Self-Driving Cars: Bootcamp with Python
+----
+mastering selenium web automation essentials 
+----
+cost management 
+----
+crea un marketplace multi vendedor con wordpress y dokan 
+----
+executive diploma in engineering management 
+----
+data analysis with pandas a complete tutorial 
+----
+css javascript and php complete course for beginners 
+----
+build go to market strategy with ai 
+----
+generative ai for personal productivity 
+----
+effective cold email outreach from strategy to execution 
+----
+dall e 101 a comprehensive guide to creating art with ai 
+----
+reactjs ai chatbot built with chatgpt and gemini ai 
+----
+deepseek r1 for business and marketing harness ai insights 
+----
+master marketing automation with microsoft copilot 
+----
+youtube startrack for beginners launch your channel today 
+----
+ultimate product management 
+----
+amazon fba guide 
+----
+how to break into web3 
+----
+react crash course from zero to hero 
+----
+professional certificate in office administration management 
+----
+uncle rats bug bounty guide 
+----
+sftp server setup and web based file transfers 
+----
+excellent python 3 bootcamp in 2023 
+----
+numpy for data science and machine learning 
+----
+introduction to risk management decision makers leaders 
+----
+fundamentals of successful leadership leading with impact 
+----
+prioritization techniques for decision makers and leaders 
+----
+workplace productivity supporting others through change 
+----
+wedding consultant masterclass 
+----
+ne plus echouer 
+----
+internationally diploma in fitness for body mind and soul 
+----
+internationally accredited diploma in boxing for fitness 
+----
+internationally accredited diploma in spiritual health 
+----
+art therapy through abstract painting fully accredited 
+----
+autocad 2020 for designers a problem solving approach 
+----
+creating smart pids using plant 3d 
+----
+complete course in autocad electrical 2022 
+----
+autocad electrical 2024 a tutorial series 
+----
+3d modeling with fusion 360tutorial videos 
+----
+exploring navisworks bim tutorials from basics to advanced 
+----
+agile scrum your path to psm certification 
+----
+professional diploma government public sector technology 
+----
+voice cloning with artificial intelligence 
+----
+production video dun travailleur miniature 
+----
+videoproduktion von miniaturarbeitern 
+----
+clonage vocal avec lintelligence artificielle 
+----
+clonage vocal avec lintelligence artificielle 
+----
+stimmenklonen mit kunstlicher intelligenz 
+----
+the ultimate ai agent course 
+----
+the future of creative content unlocking potential with ai 
+----
+social media graphics design masterclass with adobe canva 
+----
+social media video editing with canva from beginner to pro 
+----
+python matplotlib programming with coding exercises 
+----
+python matplotlib programming with coding exercises 
+----
+master in java in one day java programming with examples 
+----
+master in java in one day java programming with examples 
+----
+python pandas programming with coding exercises 
+----
+python pandas programming with coding exercises 
+----
+python pandas programming with coding exercises 
+----
+python keras programming with coding exercises 
+----
+ultimate guide to creating presentations with powerpoint 
+----
+professional diploma in technical project management 
+----
+learn davinci resolve the complete video editing bootcamp 
+----
+learn filmora video editing masterclass from beginner to pro 
+----
+chatgpt and generative ai in business management marketing 
+----
+professional certificate in agile and scrum 
+----
+adobe illustrator essentials design like a pro in days 
+----
+ultimate youtube blueprint proven tactics channel success 
+----
+professional diploma in business project management 
+----
+master filmora editing motion graphics and color grading 
+----
+the complete da vinci resolve course beginner to filmmaker 
+----
+ultimate adobe photoshop cc masterclass basics to advanced 
+----
+microsoft office mastery learn word excel and powerpoint 
+----
+intentional leadership 
+----
+complete ms office course masterclass beginner to advanced 
+----
+turn your idea into a web application no code in arabic 
+----
+the complete photo editing masterclass with adobe and canva 
+----
+blender essential from beginner to 3d masterclass 
+----
+the complete t shirt design toolkit ps ai canva 
+----
+sales mastery proven techniques to sell more 
+----
+the shopify dropshipping course start selling online today 
+----
+performance management with generative ai for hr managers 
+----
+free html css for beginners 
+----
+no more lucky models the art science of model validation 
+----
+java coding interview questions 
+----
+csca certified supply chain analyst 
+----
+professional diploma of product owner 
+----
+advanced professional photoshop course 
+----
+essential adobe lightroom course for photo editing 
+----
+the complete java masterclass with practical examples 
+----
+adobe illustrator course for graphics design 
+----
+adobe photoshop course from basic to advacned for graphics 
+----
+advanced wordpress course for professionals 
+----
+2023 data visualization in tableau python 2 courses in 1 
+----
+microsoft excel complete excel from beginner to advanced 
 ----
 email marketing masterclass build expand your email list 
 ----
@@ -6,193 +194,5 @@ kubernetes training
 ----
 mastering javascript and jquery course beginners to advanced 
 ----
-c c and php comprehensive programming bootcamp 
-----
 sql mysql postgresql mongodb all in one database course 
-----
-python oop a complete course in object oriented programming 
-----
-chatgpt for seo a complete guide to boost your rankings 
-----
-professional diploma of finance business partner 
-----
-adobe photoshop cc complete mastery course basic to advanced 
-----
-adobe illustrator cc beginners to advanced training course 
-----
-chatgpt earning money with chatgpt easy way for beginners 
-----
-rank your blog website in google beginners seo course 
-----
-excel microsoft excel course beginner to expert 2022 
-----
-postgresql bootcamp complete beginner to advanced course 
-----
-python programming build and deploy your own applications 
-----
-python programming a step by step programming course 
-----
-master your voice public speaking made easy 
-----
-html 5pythonflask framework all in one complete course 
-----
-diploma of microsoft dynamics 365 crm business architect 
-----
-30 html css javascript projects a beginners guide to js 
-----
-boost your portfolio with 20 html css javascript projects 
-----
-android projects course build 3 applications from scratch 
-----
-20 web projects with html css and javascript master js 
-----
-javascript 20 projects in 20 days html css javascript 
-----
-build a quiz app with java on android studio beginner course 
-----
-javascript projects course build 20 projects in 20 days 
-----
-javascript 10 projects in 10 days course for beginners 
-----
-learn android app development in hindi build 10 application 
-----
-10 html css js projects html5 css3 and vanilla javascript 
-----
-master android by building 3 applications in kotlin language 
-----
-android course build 3 applications from scratch with java 
-----
-learn javascript by creating 10 practical projects 
-----
-mastering javascript by building 10 projects from scratch 
-----
-master android application build 3 applications from scratch 
-----
-android apps development masterclass build 2 apps java 
-----
-javascript 30 projects in 30 days course for beginners 
-----
-unlock your potential personal development mastery 
-----
-java and c and php crash course for beginners 
-----
-master class on datascience 
-----
-c programming bootcamp for beginners 
-----
-content marketing mastery boost business with chatgpt 
-----
-continous integration jenkins pipelines 
-----
-professional diploma in ma business mergers acquisitions 
-----
-professional diploma in procurement sourcing supply chains 
-----
-build modern php api 
-----
-professional diploma of real estate business expert 
-----
-build a simple react app from scratch 
-----
-best ecommerce course 
-----
-drop servicing dropservice build a drop servicing business 
-----
-professional diploma of product service business analyst 
-----
-lean six sigma white belt entry level cssc accredited 
-----
-lean six sigma white belt version en espanol 
-----
-lean six sigma white belt in hindi certification 
-----
-concentration ultime 
-----
-professional diploma in digital business development 
-----
-meme coin mastery how to trade solana memecoin for profit q 
-----
-how to trade ton memecoin like a pro 
-----
-how to trade meme coin on solana with pump fun 
-----
-how to trade meme coins on ton 
-----
-how to trade memecoin on solana using telegram bot 
-----
-crypto airdrop farming guide strategy for beginners 
-----
-how to trade meme coin on solana step by step guide 
-----
-chatbot for begineer create an ai chatbot without coding 
-----
-agile scrum your path to psm certification 
-----
-master bi ssis ssrs ssas mdx zero to hero 2024 
-----
-microsoft dp 203 certified azure data engineer associate 
-----
-master course in business process management bpm 
-----
-cthp certified tourism and hospitality professional 
-----
-mastering hr people analytics hr predictive analytics 20 
-----
-emerging markets and business in developing countries 
-----
-sphr 101 senior professional in human resources 
-----
-embracing a skills first mindset for organization 
-----
-brand identity design positioning brand equity management 
-----
-cpmm certified professional marketing manager 
-----
-virtual and stay interview user interviews and onboarding 
-----
-cplm certified professional logistics manager 
-----
-cpfp certified professional of financial planner 
-----
-diversity recruitment and organizational success hr 
-----
-master course selling into finance companies 
-----
-mastering customer service call control strategies 
-----
-master course in value based selling 
-----
-master course inclusive product development design 
-----
-master course selling into the manufacturing industry 
-----
-master course selling into the pharmaceutical industry 
-----
-leadership future thinking succession planning 
-----
-master course developing business partnerships 
-----
-sales discovery inside sales and inclusive marketing 
-----
-como crear una pagina web con wordpress y cloudways 
-----
-investing options from basics to mastery 
-----
-15 effective steps for growing business in social media 
-----
-skylum photo 
-----
-complete freelance mba 2024 digitalize service businesses 
-----
-master lead generation grow subscribers sales with popups 
-----
-mastering aws serverless hands on with core aws services 
-----
-ai powered email marketing a complete guide 
-----
-landscape photo editing 
-----
-c basics from zero to first applications 
-----
-ios development craft your first app with swiftui 
 ----
