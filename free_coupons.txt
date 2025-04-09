@@ -1,4 +1,148 @@
-JavaScript Fundamentals Course for Beginners
+Software Architecture and Clean Code Design in OOP
+----
+testing for developers 
+----
+uml learnit 
+----
+databases learnit 
+----
+customer experience learnit 
+----
+gof design patterns learnit 
+----
+customer service with chatgpt learnit 
+----
+information security learnit 
+----
+project management with chatgpt learnit 
+----
+spring learnit 
+----
+customer success with chatgpt learnit 
+----
+jdbc learnit 
+----
+mastering idioms 
+----
+master any language with chatgpt boost your language skills 
+----
+managers guide to effective 11 
+----
+software architecture it bulls 
+----
+improving software development productivity 
+----
+owasp learnit es 
+----
+codificacion segura learnit 
+----
+codificacion segura learnit 
+----
+mejores practicas seguridad learnit 
+----
+owasp security learnit es 
+----
+professional certificate in career coaching 
+----
+professional logo production with artificial intelligence 
+----
+create a gantt chart using spreadsheet software 
+----
+graphic design masterclass master illustrator photoshop 
+----
+capcut video editing for social media beginner to pro 
+----
+learn figma uiux design masterclass from beginner to pro 
+----
+essential after effects from beginner to motion master 
+----
+graphic design masterclass adobe photoshop illustrator indesign canva 
+----
+master strategic hr build impactful hr strategies 
+----
+build winning corporate culture drive success with strategy 
+----
+master stress management build resilient workplaces 
+----
+hr automation mastery transform hr with digital solutions 
+----
+become certified game dev recruiter and start earning 
+----
+onboarding new 
+----
+talent acquisition director 
+----
+master job profiles 
+----
+master feedback 
+----
+essentiels du coo 
+----
+competency based interviews 
+----
+generalista de rh 
+----
+python scipy programming with coding exercises 
+----
+python pytorch programming with coding exercises 
+----
+web development bootcamp python django web course 2025 
+----
+python scikit learn programming with coding exercises 
+----
+canva for social media graphic design and video editing 
+----
+the ultimate filmora video editing course beginner to pro 
+----
+the complete capcut course beginner to pro 
+----
+java core in practice iter academy 
+----
+java oop iter academy 
+----
+pro photo editing with photoshop illustrator lightroom canva 
+----
+advanced adobe after effects become vfx motion expert 
+----
+advanced adobe premiere pro add hollywood level effects 
+----
+advanced adobe premiere pro add hollywood level effects 
+----
+java concurrency iter academy 
+----
+java concurrency iter academy 
+----
+adobe illustrator essentials zero to hero for beginners 
+----
+adobe after effects from beginner to motion master 
+----
+chatgpt for product management innovation h 
+----
+complete ms office and web design development course 
+----
+complete graphics design course for beginner to advanced 
+----
+complete video editing course with motion graphics 
+----
+learn to play flutebansuri from scratch 
+----
+learning python for beginners 1 data types input format 
+----
+full stack ai with ollama llama deepseek mistral phi 
+----
+produktion von visuellen prompt 
+----
+learning development with generative ai in human resources 
+----
+iso 27001 data classification step by step 
+----
+learn angular js course zero to hero 
+----
+the nist ai risk management framework ai rmf 
+----
+executive self talk for high achievers overcome imposter syndrome 
+----
+javascript fundamentals course for beginners 
 ----
 machine learning fundamental of python machine learning 
 ----
@@ -9,36 +153,6 @@ html 5 with quizzes and python 3 complete course 2023
 java training crash course 2022 
 ----
 chatgpt make money with chatgpt as a new freelancer 
-----
-html 5 with quizzes and python 3 complete course 2023 
-----
-javascript fundamentals course for beginners 
-----
-javascript fundamentals course for beginners 
-----
-the nist ai risk management framework ai rmf 
-----
-the nist ai risk management framework ai rmf 
-----
-executive self talk for high achievers overcome imposter syndrome 
-----
-learn angular js course zero to hero 
-----
-learning development with generative ai in human resources 
-----
-closing the distance a practical guide to gap analysis 
-----
-the nist ai risk management framework ai rmf 
-----
-javascript fundamentals course for beginners 
-----
-the complete python bootcamp from zero to expert 
-----
-java training crash course 2022 
-----
-chatgpt make money with chatgpt as a new freelancer 
-----
-excel formulas functions beginner to expert course 
 ----
 excel formulas functions beginner to expert course 
 ----
@@ -52,7 +166,7 @@ kotlin mastering complete kotlin web development course
 ----
 nail your job interview build confidence and master english 
 ----
-professional diploma in administration management 
+api rest con php y mysql 
 ----
 research methodologies in strategy and product development 
 ----
@@ -76,123 +190,9 @@ public speaking and presentation skills course
 ----
 leadership be successful as a leader in leading others 
 ----
-python 2000 beyond the basics 
-----
-create your own blockchain 
-----
-the ultimate psychology course why we do the things we do 
+dealing with difficult people work life 
 ----
 transformational leadership soft skills 
 ----
-flextrim fitness system stretch 
-----
-how to get more youtube views subscribers 
-----
-best social media marketing training course 
-----
 leadership and life success through personal growth 
-----
-learn home automation using jarvis ai with arduino 
-----
-learn python with 20 real world projects 
-----
-public relations fundamentals masterclass 2020 course 
-----
-learn django web development with 3 real world projects 
-----
-business leadership team management masterclass 2020 
-----
-team leader fundamentals for new and developing team leaders 
-----
-business leadership crisis management communications 
-----
-nmap mastery ultimate guide to network scanning 
-----
-metasploit from scratch beginner to professional 
-----
-learn flutter complete guide 
-----
-nodejs masterclass express mongodb openai and more 2023 
-----
-recon ninja advanced info gathering for ethical hackers 
-----
-become a hydra expert advanced brute forcing techniques 
-----
-hacking the human mind social engineering fundamentals 
-----
-sqlmap from scratch for ethical hackers 
-----
-ultimate jarvis ai mega course using python programming 
-----
-arduino uno based obstacle avoiding robot car rc control 
-----
-arduino uno bootcamp for beginners 2022 complete course 
-----
-python from the university 
-----
-python pro the complete python bootcamp for noobs 
-----
-learn python programming quick beginner 
-----
-los secretos de los lideres mas exitosos del mundo spanish 
-----
-leadership leaders skills training 
-----
-learn to create jarvis ai mark i android app using java 
-----
-ultimate home automation using advance ai assistant jarvis 
-----
-communication skills business success 
-----
-learn to create jarvis ai mark i android app using java 
-----
-ultimate home automation using advance ai assistant jarvis 
-----
-fundamentals of financial services 
-----
-learn canva from basic to advanced and earn money in 2025 
-----
-mastering selenium web automation essentials 
-----
-crea un marketplace multi vendedor con wordpress y dokan 
-----
-executive diploma in engineering management 
-----
-data analysis with pandas a complete tutorial 
-----
-css javascript and php complete course for beginners 
-----
-build go to market strategy with ai 
-----
-generative ai for personal productivity 
-----
-dall e 101 a comprehensive guide to creating art with ai 
-----
-reactjs ai chatbot built with chatgpt and gemini ai 
-----
-deepseek r1 for business and marketing harness ai insights 
-----
-master marketing automation with microsoft copilot 
-----
-mobile app design in figma from concept to prototype 
-----
-youtube startrack for beginners launch your channel today 
-----
-ultimate product management 
-----
-amazon fba guide 
-----
-how to break into web3 
-----
-react crash course from zero to hero 
-----
-professional certificate in office administration management 
-----
-sftp server setup and web based file transfers 
-----
-100 Days of Code: A Challenging Complete Python Pro Bootcamp
-----
-numpy for data science and machine learning 
-----
-fundamentals of successful leadership leading with impact 
 ----
