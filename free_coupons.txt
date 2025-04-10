@@ -1,4 +1,100 @@
-Software Architecture and Clean Code Design in OOP
+Business Process Management (BPM) – Design & Map Workflows
+----
+performance management with generative ai for hr managers 
+----
+web design course with html css and wordpress 
+----
+learning development with generative ai in human resources 
+----
+advanced ms word excel powerpoint course for job success 
+----
+adobe premiere pro cc for video editing from novice to exper 
+----
+learn chatgpt midjourney ai and use it for passive income 
+----
+essential canva course for graphics design learn in 2 hour 
+----
+python tensorflow programming with coding exercises 
+----
+python flask web applications dev with coding exercises 
+----
+python django web applications dev with coding exercises 
+----
+automl for ai powered professionals 
+----
+agile scrum your path to psm certification 
+----
+css the complete guide to css zero to hero 
+----
+java programming masterclass beginner to master 
+----
+chatgpt complete chatgpt guide for beginners 
+----
+microsoft excel excel only for beginners 
+----
+adobe photoshop cc for photo editing and image retouching 
+----
+adobe photoshop cc masterclass from beginner to advanced 
+----
+mongodb the complete mongodb developers course 
+----
+decision making for leaders and managers 
+----
+django masterclass get started with django web development 
+----
+c and java training crash course 2022 
+----
+flask framework complete course for beginners 
+----
+stretching flexibility course 
+----
+2022 complete sql bootcamp from zero to hero in sql 
+----
+stretching flexibility course 
+----
+2022 complete sql bootcamp from zero to hero in sql 
+----
+build modern php api 
+----
+diploma executivo em lideranca 
+----
+professional certificate in customer experience management 
+----
+professional certificate in marketing and marketing management 
+----
+python interview questions answers coding 
+----
+javascript coding interview questions with solutions 
+----
+professional certificate in smm social media marketing 
+----
+python development and python programming fundamentals 
+----
+100 days of google ads microsoft ads ultimate bootcamp 
+----
+professional certificate product management and development 
+----
+master listening to transform your relationships 
+----
+strategic partnerships and collaborations 
+----
+substantive deep editing 
+----
+english idioms course to speak fluently 
+----
+2024 leadership mastery modern leaders practical training 
+----
+php with mysql 2022 build 5 php and mysql projects 
+----
+the complete django rest framework bootcamp 2024 latest 
+----
+unleash your full potential learn english now 
+----
+curso basico de mailerlite crea automatizaciones de correo 
+----
+professional diploma of mortgage and lending broker 
+----
+software architecture learnit 
 ----
 testing for developers 
 ----
@@ -14,8 +110,6 @@ customer service with chatgpt learnit
 ----
 information security learnit 
 ----
-project management with chatgpt learnit 
-----
 spring learnit 
 ----
 customer success with chatgpt learnit 
@@ -25,6 +119,8 @@ jdbc learnit
 mastering idioms 
 ----
 master any language with chatgpt boost your language skills 
+----
+selenium in c sharp taf for beginners learnit 
 ----
 managers guide to effective 11 
 ----
@@ -36,15 +132,11 @@ owasp learnit es
 ----
 codificacion segura learnit 
 ----
-codificacion segura learnit 
-----
 mejores practicas seguridad learnit 
 ----
 owasp security learnit es 
 ----
 professional certificate in career coaching 
-----
-professional logo production with artificial intelligence 
 ----
 create a gantt chart using spreadsheet software 
 ----
@@ -53,6 +145,8 @@ graphic design masterclass master illustrator photoshop
 capcut video editing for social media beginner to pro 
 ----
 learn figma uiux design masterclass from beginner to pro 
+----
+uiux design masterclass with adobe xd from beginner to pro 
 ----
 essential after effects from beginner to motion master 
 ----
@@ -72,8 +166,6 @@ onboarding new
 ----
 talent acquisition director 
 ----
-master job profiles 
-----
 master feedback 
 ----
 essentiels du coo 
@@ -82,17 +174,17 @@ competency based interviews
 ----
 generalista de rh 
 ----
+outstanding python programming with examples in one day 
+----
 python scipy programming with coding exercises 
 ----
 python pytorch programming with coding exercises 
-----
-web development bootcamp python django web course 2025 
 ----
 python scikit learn programming with coding exercises 
 ----
 canva for social media graphic design and video editing 
 ----
-the ultimate filmora video editing course beginner to pro 
+The Ultimate Filmora Video Editing Course: Beginner to Pro
 ----
 the complete capcut course beginner to pro 
 ----
@@ -102,97 +194,5 @@ java oop iter academy
 ----
 pro photo editing with photoshop illustrator lightroom canva 
 ----
-advanced adobe after effects become vfx motion expert 
-----
 advanced adobe premiere pro add hollywood level effects 
-----
-advanced adobe premiere pro add hollywood level effects 
-----
-java concurrency iter academy 
-----
-java concurrency iter academy 
-----
-adobe illustrator essentials zero to hero for beginners 
-----
-adobe after effects from beginner to motion master 
-----
-chatgpt for product management innovation h 
-----
-complete ms office and web design development course 
-----
-complete graphics design course for beginner to advanced 
-----
-complete video editing course with motion graphics 
-----
-learn to play flutebansuri from scratch 
-----
-learning python for beginners 1 data types input format 
-----
-full stack ai with ollama llama deepseek mistral phi 
-----
-produktion von visuellen prompt 
-----
-learning development with generative ai in human resources 
-----
-iso 27001 data classification step by step 
-----
-learn angular js course zero to hero 
-----
-the nist ai risk management framework ai rmf 
-----
-executive self talk for high achievers overcome imposter syndrome 
-----
-javascript fundamentals course for beginners 
-----
-machine learning fundamental of python machine learning 
-----
-the complete python bootcamp from zero to expert 
-----
-html 5 with quizzes and python 3 complete course 2023 
-----
-java training crash course 2022 
-----
-chatgpt make money with chatgpt as a new freelancer 
-----
-excel formulas functions beginner to expert course 
-----
-adobe photoshop cc for graphic design the easy way 
-----
-the complete photoshop cc course beginner to advanced 
-----
-css javascriptphp and python programming all in one course 
-----
-kotlin mastering complete kotlin web development course 
-----
-nail your job interview build confidence and master english 
-----
-api rest con php y mysql 
-----
-research methodologies in strategy and product development 
-----
-executive diploma in human resources strategy 
-----
-introduction to reverse osmosis desalination 
-----
-omnichannel sales service management 
-----
-professional certificate of executive business assistant 
-----
-ne plus echouer 
-----
-personal digital security everyone must have cybersecurity 
-----
-general bacteriology a concise course 
-----
-professional certificate digital business unit economics 
-----
-public speaking and presentation skills course 
-----
-leadership be successful as a leader in leading others 
-----
-dealing with difficult people work life 
-----
-transformational leadership soft skills 
-----
-leadership and life success through personal growth 
 ----
