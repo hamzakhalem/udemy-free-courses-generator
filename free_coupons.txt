@@ -1,10 +1,178 @@
+ChatGPT for Product Management & Innovation
+----
+git github training 
+----
+data based decision making and cost benefit analysis cba 
+----
+entrepreneurship masterclass 
+----
+python programming python bootcamp for beginners 
+----
+salesforce fundamentals a complete guide for beginners 
+----
+salesforce fundamentals a complete guide for beginners 
+----
+python java and php essentials complete coding bootcamp 
+----
+javascript 10 projects in 10 days course for beginners w 
+----
+css bootstrap and javascript and python stack course 
+----
+python complete course for beginners 
+----
+the melody of english 
+----
+python complete course for beginners 
+----
+css bootstrap and javascript and python stack course 
+----
+the rhythm of english 
+----
+start your freelancing agency 
+----
+professional certificate in project and process management 
+----
+ne plus echouer 
+----
+build modern php api 
+----
+concentration ultime 
+----
+build backend api node js and react frontend 
+----
+ai art mastery midjourney dalle 3 stable diffusion 
+----
+advanced certificate in business marketing strategy 
+----
+microsoft office specialist microsoft excel advanced expert 
+----
+professional certificate in risk management 
+----
+business powerhouse mastering sales ai and business growth 
+----
+lean quality management six sigma continuous improvement 
+----
+mini course on effective communications skills 
+----
+retail digital banking green banking sustainable banking 
+----
+leadership through tough times 
+----
+hr fundamentals hr leadership 101 level human resources hrp shrm 
+----
+sustainable technologies datafication 
+----
+sales skills sales anayst 
+----
+organizational behavior organizational design 
+----
+sales mastery proven techniques to sell more 
+----
+verkauf von google adwords promo codes 
+----
+advanced certificate in customer experience management 
+----
+computing fundamentals it networking os virtualization 
+----
+learn windows server 2022 in an easy way basics to advanced 
+----
+mastering active directory manage and optimize the network 
+----
+vsphere zero hero 
+----
+aws ec2 aws certified solutions architect associate 
+----
+como crear un embudo de ventas con wordpress desde cero 
+----
+como crear una pagina web con inteligencia artificial 
+----
+como crear una pagina de ventas para hotmart 
+----
+master en diseno web para no programadores 
+----
+elementor hosting como crear una pagina web con wordpress 
+----
+lean six sigma fundamentos e 
+----
+lean six sigma yellow belt parte 2 avalados por cssc 
+----
+clssyb opexleader 
+----
+no low code marketing automation 
+----
+agile marketing mastery implementing marketing sprints 
+----
+implement pci dss 40 step by step with templates 
+----
+implement iatf 169492016 step by step with templates 
+----
+level 1 intelligence analyst certification p 
+----
+building ai android applications 
+----
+career coaching counseling cv job search growth 
+----
+organizational design structure matrix functional model 
+----
+sap successfactors introduction et prise en main 
+----
+grow and sell how to grow flip youtube channels for profit 
+----
+gestao de empresas e empreendedorismo 
+----
+git and github a practical course beginner to advanced 
+----
+cssbootstrapjavascriptreact overview course for beginners 
+----
+advanced certificate in program and project management 
+----
+the ultimate microsoft excel essential comprehensive guide 
+----
+the ultimate microsoft word essential comprehensive guide 
+----
+learn t shirt design with photoshop illustrator and canva 
+----
+social media video editing with premiere pro canva filmora 
+----
+social media graphics design and video editing in canva 
+----
+professional diploma in program management 
+----
+beginner guide to learn t shirt design with photoshop 
+----
+unlock excels power essential ms excel skills for success 
+----
+figma essential for user interface and user experience ui ux 
+----
+r for research 
+----
+python for researchers 
+----
+programming for scientific research 
+----
+ai for geospatial analysis 
+----
+mastering django 
+----
+essentials pyqgis 
+----
+essentials for arcpy 
+----
+learn advanced excel formulas functions vba macros 
+----
+advanced powerpoint course for professional and job success 
+----
+adobe illustrator course for beginner 
+----
+learn blockchain and cryotp from beginning 
+----
+advanced microsoft word with job success 
+----
+associate professional risk manager aprm certificate 
+----
 Digital Transformation & Customer Experience Management CXM
 ----
 complete python training 
-----
-helm kubernetes 
-----
-helm kubernetes 
 ----
 helm kubernetes 
 ----
@@ -16,183 +184,15 @@ master c language c programming language for beginners
 ----
 the quick start guide to business analysis 
 ----
-stock trading investing technical analysis indian stock market 
-----
-the ultimate seo course 2024 beginner to advanced seo 
-----
 the ultimate seo course 2024 beginner to advanced seo 
 ----
 stock trading investing technical analysis indian stock market 
 ----
-etsy promotion 
+marketing and customer experience management cxm excellence 
 ----
-facebook ads launch pro advertising campaigns 
+excel guide 
 ----
-the power of ai avatars with heygen 
+digital marketing automation one step ahead of competitors 
 ----
-chatbot marketing course 
-----
-cold marketing strategy 
-----
-digital marketing strategy from scratch course 
-----
-midjourney comprehensive 
-----
-contract negotiation i 
-----
-python course from zero to hero intermediate level 
-----
-c sharp mastering course for professionals 
-----
-c sharp mastering course for intermediates 
-----
-python complete course and flask framework html 2024 edition 
-----
-c sharp mastering course for beginners 
-----
-python from zero to hero beginner level 
-----
-javascript from scratch beginner level 
-----
-mastering html5 and css3 part 3 advanced level 
-----
-mastering html5 and css3 part 2 intermediate level 
-----
-mastering html5 and css3 part 1 beginner level 
-----
-the complete android kotlin app development a z bootcamp 
-----
-java and c complete course for beginners 2022 
-----
-mastering google notebooklm an ai powered research tool 
-----
-chatbot creation with generative ai a practical guide 
-----
-mastering email deliverability the comprehensive guide 
-----
-from zero to ai how to master deepseek ai as a beginner 
-----
-american english vowels placement for all 
-----
-spacy with nlp 
-----
-advanced program in business and entrepreneurship 
-----
-controlsystems 
-----
-forextradingrobotcreationcourse 
-----
-complete fundamental analysis master course 
-----
-certificate of leadership excellence in business management 
-----
-forex mastery technical fundamental analysis mega course 
-----
-master en diseno web con inteligencia artificial 
-----
-master en comercio electronico con wordpress 
-----
-como crear un blog con wordpress para principiantes 
-----
-no low code marketing automation 
-----
-google ads for beginners how to drive sales with ppc 
-----
-social media marketing strategy course 
-----
-email marketing for beginners course 
-----
-chat gpt for content creation 
-----
-upgrade your social media presence with chat gpt 
-----
-reputation management 
-----
-figma practical design 
-----
-unlocking grok ai for business and marketing 
-----
-mastering linkedin lead generation social selling 
-----
-ai to empower your marketing team 
-----
-master mobile photography learn to edit photos with iphone 
-----
-craft marketing strategy with your ai copilot 
-----
-chatgpt digital marketing 
-----
-certificado profissional em gestao de projetos 
-----
-network mastery for ethical hackers 
-----
-learn flutter complete guide 
-----
-nodejs masterclass express mongodb openai and more 2023 
-----
-executive certificate in digital transformation 
-----
-business science method analysis research methodologies 
-----
-crea una pagina web con elementor pro y el tema hello 
-----
-como crear una academia online con wordpress y tutor lms 
-----
-javascript and php programming complete course 
-----
-build complete 2022 cms blog in php mysql bootstrap pdo 
-----
-foundational math 
-----
-powerpoint business presentations with chatgpt generative ai 
-----
-miniature workers video production 
-----
-chatgpt master complete openai chatgpt course 
-----
-master in php coding with 60 exercises and solution 
-----
-learn javascript programming in 7 days 
-----
-essential canva for graphics design to boost productivity 
-----
-adobe illustrator for everyone design like a pro 
-----
-learn canva for advance graphics design 
-----
-t shirt design bootcamp photoshop illustrator canva 
-----
-disease prediction 2 mini projects in apache sparkml 
-----
-employee attrition prediction in apache spark ml 
-----
-google sheets bootcamp boost productivity and efficiency 
-----
-adobe animate a comprehensive guide for beginners to pro 
-----
-capcut video editing for social media reels shorts videos 
-----
-write article content for seo and affiliate marketing course 
-----
-Adobe Photoshop CC Fundamentals and Essentials Training
-----
-essential adobe photoshop free photoshop crash course 
-----
-master the blender for game art film design 
-----
-social media mastery comprehensive social media success 
-----
-business process management bpm design map workflows 
-----
-performance management with generative ai for hr managers 
-----
-web design course with html css and wordpress 
-----
-learning development with generative ai in human resources 
-----
-advanced ms word excel powerpoint course for job success 
-----
-adobe premiere pro cc for video editing from novice to exper 
-----
-essential canva course for graphics design learn in 2 hour 
+blogging and influencer marketing 
 ----
