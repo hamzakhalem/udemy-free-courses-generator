@@ -1,18 +1,126 @@
-ChatGPT for Product Management & Innovation
+Executive Diploma in Business Presenting Skills
 ----
-git github training 
+html the complete guide to html zero to hero 
 ----
-data based decision making and cost benefit analysis cba 
+java fundamentals course for beginners 
+----
+the complete javascript course from zero to expert o 
+----
+complete guide in html css build responsive website 
+----
+unlock your mind mental mastery and personal growth are one 
+----
+postgraduate executive diploma general management 
+----
+javascript for beginners complete course 
+----
+consumer lending 
+----
+concentration ultime 
+----
+adobe photoshop cc masterclass from beginner to advanced 
+----
+html 5pythonflask framework all in one complete course 
+----
+php bootcamp the complete programming course with mysql 
+----
+master java python c c all in one programming course 
+----
+300 python exercises simple and complex with algorithm 
+----
+learn five 5 computer programming languages in one course 
+----
+complete javascript programming from novice to expert 
+----
+300 python exercises simple and complex with algorithm 
+----
+learn five 5 computer programming languages in one course 
+----
+learn python in 7 days with exercises and assignments 
+----
+master in html css coding for web design 
+----
+2022 the master in web development backend frontend 
+----
+omnichannel sales service management with ai chat bots 
+----
+lean six sigma white belt version en espanol 
+----
+lean six sigma white belt entry level cssc accredited 
+----
+lean six sigma white belt in hindi certification 
+----
+corporate management 
+----
+horse colic what can we do 
+----
+digital product owner 
+----
+postgraduate diploma in office administration management 
+----
+crm at sales service marketing and business management 
+----
+crm at sales service marketing and business management 
+----
+digitisation 
+----
+print on demand free 
+----
+recon ninja advanced info gathering for ethical hackers 
+----
+presentations and public speaking 
+----
+master en wordpress y chatgpt desde cero hasta experto 
+----
+public speaking mastery public speakers 
+----
+complete pelvic floor physical therapy exercise program 
+----
+strategic product development a practical guide to research 
+----
+human resources expert certificate hr metrics and analytics 
+----
+english idioms course to speak fluently 
+----
+introduction to time management p 
+----
+build backend api node js and react frontend 
+----
+c training crash course 2022 
+----
+professional certificate finance data analysis analytics 
+----
+learning solidworks for students engineers and designers 
+----
+complete course in creo parametric 
+----
+autocad electrical 2025 tutorials exercises projects 
+----
+advanced autocad 2025 interactive learning 
+----
+ne plus echouer 
+----
+market research competitive analysis executive certificate 
+----
+presentations with chatgpt 
+----
+agile trainer certification 
+----
+safe scaled agile framework 
+----
+chatgpt for product management innovation aece 
 ----
 entrepreneurship masterclass 
 ----
 python programming python bootcamp for beginners 
 ----
-salesforce fundamentals a complete guide for beginners 
+python programming python bootcamp for beginners 
 ----
 salesforce fundamentals a complete guide for beginners 
 ----
 python java and php essentials complete coding bootcamp 
+----
+advanced certificate in financial analysis and management 
 ----
 javascript 10 projects in 10 days course for beginners w 
 ----
@@ -22,29 +130,13 @@ python complete course for beginners
 ----
 the melody of english 
 ----
-python complete course for beginners 
-----
-css bootstrap and javascript and python stack course 
-----
 the rhythm of english 
 ----
 start your freelancing agency 
 ----
 professional certificate in project and process management 
 ----
-ne plus echouer 
-----
-build modern php api 
-----
-concentration ultime 
-----
-build backend api node js and react frontend 
-----
-ai art mastery midjourney dalle 3 stable diffusion 
-----
 advanced certificate in business marketing strategy 
-----
-microsoft office specialist microsoft excel advanced expert 
 ----
 professional certificate in risk management 
 ----
@@ -55,8 +147,6 @@ lean quality management six sigma continuous improvement
 mini course on effective communications skills 
 ----
 retail digital banking green banking sustainable banking 
-----
-leadership through tough times 
 ----
 hr fundamentals hr leadership 101 level human resources hrp shrm 
 ----
@@ -76,11 +166,11 @@ computing fundamentals it networking os virtualization
 ----
 learn windows server 2022 in an easy way basics to advanced 
 ----
-mastering active directory manage and optimize the network 
-----
 vsphere zero hero 
 ----
 aws ec2 aws certified solutions architect associate 
+----
+como crear un blog con inteligencia artificial 
 ----
 como crear un embudo de ventas con wordpress desde cero 
 ----
@@ -88,7 +178,7 @@ como crear una pagina web con inteligencia artificial
 ----
 como crear una pagina de ventas para hotmart 
 ----
-master en diseno web para no programadores 
+Máster en Diseño Web Para No Programadores 2025
 ----
 elementor hosting como crear una pagina web con wordpress 
 ----
@@ -104,95 +194,5 @@ agile marketing mastery implementing marketing sprints
 ----
 implement pci dss 40 step by step with templates 
 ----
-implement iatf 169492016 step by step with templates 
-----
 level 1 intelligence analyst certification p 
-----
-building ai android applications 
-----
-career coaching counseling cv job search growth 
-----
-organizational design structure matrix functional model 
-----
-sap successfactors introduction et prise en main 
-----
-grow and sell how to grow flip youtube channels for profit 
-----
-gestao de empresas e empreendedorismo 
-----
-git and github a practical course beginner to advanced 
-----
-cssbootstrapjavascriptreact overview course for beginners 
-----
-advanced certificate in program and project management 
-----
-the ultimate microsoft excel essential comprehensive guide 
-----
-the ultimate microsoft word essential comprehensive guide 
-----
-learn t shirt design with photoshop illustrator and canva 
-----
-social media video editing with premiere pro canva filmora 
-----
-social media graphics design and video editing in canva 
-----
-professional diploma in program management 
-----
-beginner guide to learn t shirt design with photoshop 
-----
-unlock excels power essential ms excel skills for success 
-----
-figma essential for user interface and user experience ui ux 
-----
-r for research 
-----
-python for researchers 
-----
-programming for scientific research 
-----
-ai for geospatial analysis 
-----
-mastering django 
-----
-essentials pyqgis 
-----
-essentials for arcpy 
-----
-learn advanced excel formulas functions vba macros 
-----
-advanced powerpoint course for professional and job success 
-----
-adobe illustrator course for beginner 
-----
-learn blockchain and cryotp from beginning 
-----
-advanced microsoft word with job success 
-----
-associate professional risk manager aprm certificate 
-----
-Digital Transformation & Customer Experience Management CXM
-----
-complete python training 
-----
-helm kubernetes 
-----
-python programming the complete course for success 
-----
-mastering c plus language c programming for beginners 
-----
-master c language c programming language for beginners 
-----
-the quick start guide to business analysis 
-----
-the ultimate seo course 2024 beginner to advanced seo 
-----
-stock trading investing technical analysis indian stock market 
-----
-marketing and customer experience management cxm excellence 
-----
-excel guide 
-----
-digital marketing automation one step ahead of competitors 
-----
-blogging and influencer marketing 
 ----
