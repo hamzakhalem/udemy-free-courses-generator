@@ -2333,3 +2333,571 @@ s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
 JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=92f8e9fab80c2834&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1744525823823	Marionette	INFO	Stopped listening on port 54650
 Dynamically enable window occlusion 1
+1744609316122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\QUBIX\\AppData\\Local\\Temp\\rust_mozprofilev0jqXS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1744609316838	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1744609316950	Marionette	INFO	Listening on port 52763
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1744609317239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.discudemy.com/photoshop/the-ultimate-adobe-photoshop-fundamental-course, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/the-ultimate-adobe-photoshop-fundamental-course, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.datadoghq-browser-agent.com/us1/v4/datadog-rum.js, line 1: Script terminated by timeout at:
+l/<@https://www.datadoghq-browser-agent.com/us1/v4/datadog-rum.js:1:702
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e13338c5baa1&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e171fdc9ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e1a52e82ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e1d1fb2aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e204ebc3ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e2494e8dba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e27cfef9ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e2a9ac38ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e2dced9aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e30a3ae2ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e33dfbf7ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e36a5a30ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/chatbot-creation-with-generative-ai-a-practical-guide/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/from-basics-to-advanced-data-analysis-using-chatgpt/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/account-based-marketing-abm-comprehensive-guide/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/generative-ai-for-leaders-and-managers-a-strategic-guide/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/smm-social-media-marketing/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/reskilling-your-organization/" ({})
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e3a168abba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/academic/introduction-to-drinking-water-treatment, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/introduction-to-drinking-water-treatment, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e3ce7d70ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e4038e8bba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e4304ce1ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e45e7d87ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/network-security/fundamentals-of-cloud-computing-a, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/fundamentals-of-cloud-computing-a, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e48b3b89ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/business/financemanagement, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/financemanagement, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e4bf8aa9ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/personal-development/how-to-be-more-likable-and-sweet, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/how-to-be-more-likable-and-sweet, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e4ec9fe1ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e52e38cbba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e55dbc56ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e5923ab7ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e5bfa981ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e5f34d8aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/javascript/learn-javascript-step-by-step-in-hindi, line 372: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/learn-javascript-step-by-step-in-hindi, line 396: SyntaxError: unexpected token: identifier
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e61f2c1cba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/learn-javascript-step-by-step-in-hindi/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/the-complete-wordpress-developer-course-w/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/learn-wordpress-in-hindi/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/drupal-for-beginners-course/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/drupal-masterclass/" ({})
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e687bbb0ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e6beba86ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e6ea8aaaba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0.js, line 2: Script terminated by timeout at:
+i.getSize@https://cdn.ampproject.org/v0.js:2:231660
+i.doPass@https://cdn.ampproject.org/v0.js:2:172201
+t/this.cs<@https://cdn.ampproject.org/v0.js:2:167182
+i.cs@https://cdn.ampproject.org/v0.js:2:113041
+t/this.hs@https://cdn.ampproject.org/v0.js:2:112729
+i.delay/Zh<@https://cdn.ampproject.org/v0.js:2:192954
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e7510938ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e7849d20ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e7b2cdb2ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Failed to set favicon for page:[Exception... \"Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIFaviconService.setFaviconForPage]\"  nsresult: \"0x8000ffff (NS_ERROR_UNEXPECTED)\"  location: \"JS frame :: resource://activity-stream/lib/FaviconFeed.sys.mjs :: #setFaviconForPage :: line 219\"  data: no]"
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e7e619c6ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto, line 1: Script terminated by timeout at:
+@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto:1:75864
+eW@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto:1:76125
+eV/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto:1:66276
+eV/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto:1:67242
+eV@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8263e02ba93&lang=auto:1:67269
+
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e867cc89ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8a7899eba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0.js, line 2: Script terminated by timeout at:
+i.isVisible@https://cdn.ampproject.org/v0.js:2:44246
+f/i/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:76075
+i.fire@https://cdn.ampproject.org/v0.js:2:36597
+i.vi@https://cdn.ampproject.org/v0.js:2:43657
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e8e6c8a3ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e9198c10ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e959b861ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/graphic-design-masterclass-bootcamp-from-beginner-to-expert/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/capcut-mastery-from-beginner-to-pro/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/ultimate-job-seeker-course-resume-cover-letter-interview/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/mastering-social-media-marketing-a-comprehensive-guide/" ({})
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e9a10bddba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300e9d37fafba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ea13cd61ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ea4ebfc8ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ea8e4e9fba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300eace2f41ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300eb327854ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300eb666cc7ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300eba60d14ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ebe50854ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/graphics-design-and-video-editing-course-for-beginner/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/" ({})
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto line 1 > eval, line 1: Script terminated by timeout at:
+@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto line 1 > eval:1:1337360
+gu@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto:1:45695
+go/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto:1:55175
+go/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto:1:55612
+go@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec243a98ba93&lang=auto:1:55640
+
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec576babba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ec89fc0fba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ecc9fcb5ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ecfe9be0ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ed410ec2ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ed823e3aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300edb48c97ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300edf48a39ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ee36988aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ee759987ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300eeb41fa8ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300eee5ccdbba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ef2398e4ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Failed to set favicon for page:[Exception... \"Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIFaviconService.setFaviconForPage]\"  nsresult: \"0x8000ffff (NS_ERROR_UNEXPECTED)\"  location: \"JS frame :: resource://activity-stream/lib/FaviconFeed.sys.mjs :: #setFaviconForPage :: line 219\"  data: no]"
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/lean-six-sigma-white-belt-entry-level-cssc-accredited/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/lean-six-sigma-white-belt-version-en-espanol/" ({})
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300ef62a804ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300efa09d43ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300efdeee6fba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f0124d09ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f0518af6ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f087ebe5ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f0cb7ee4ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f10ddc3dba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f13fe862ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f1aeec96ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/business/presentations-and-public-speaking, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/presentations-and-public-speaking, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f1ec7c22ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f21e286eba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/" ({})
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f25bee61ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f28dbd35ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/business/project-management-concepts, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/project-management-concepts, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f2cbeb1aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/business/project-management-concepts, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/project-management-concepts, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f2fd3a48ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/business/project-management-concepts, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/project-management-concepts, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f33be86eba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/business/presentations-and-public-speaking, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/presentations-and-public-speaking, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f36d1c82ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f3aafa9cba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/personal-development/public-speaking-mastery-public-speakers, line 370: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/public-speaking-mastery-public-speakers, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f3e95ba6ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f41b2d42ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f458ce11ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f4967ddbba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f4d48d05ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.discudemy.com/cpp/c-training-crash-course-2022, line 441: SyntaxError: unexpected token: identifier
+JavaScript error: https://www.discudemy.com/go/c-training-crash-course-2022, line 393: SyntaxError: unexpected token: identifier
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f512bdfcba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.udemy.com/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/" ({})
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f5444b54ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f5825803ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f5b6ef35ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f5f47d1eba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f632accbba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Failed to set favicon for page:[Exception... \"Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIFaviconService.setFaviconForPage]\"  nsresult: \"0x8000ffff (NS_ERROR_UNEXPECTED)\"  location: \"JS frame :: resource://activity-stream/lib/FaviconFeed.sys.mjs :: #setFaviconForPage :: line 219\"  data: no]"
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f6aabc53ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://browser.sentry-cdn.com/6.11.0/bundle.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/6.11.0/bundle.min.js:2:55862
+
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f721ca46ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f75fe97aba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/v0/amp-analytics-0.1.js, line 2: Script terminated by timeout at:
+f/n.OTt@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27514
+f/n.oo/<@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:27175
+s@https://cdn.ampproject.org/v0/amp-analytics-0.1.js:2:9109
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=9300f7a199a4ba93&lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1744610271829	Marionette	INFO	Stopped listening on port 52763
+Dynamically enable window occlusion 1
