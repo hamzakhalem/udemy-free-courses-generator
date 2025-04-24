@@ -1,122 +1,120 @@
-Google BigQuery & PostgreSQL : Big Query for Data Analysis
-----
-data analyst skillpath zero to hero in excel sql python 
-----
-machine learning using python starttech 
-----
-neural network understanding and building an ann in python 
-----
-neural network understanding and building an ann in r 
-----
-excel quick start guide from beginner to expert 
-----
-the complete sql masterclass for data analytics 
-----
-employee wellness building well being programs that work 
-----
-job search building a personal brand for career success 
-----
-career coaching counseling cv job search growth 
-----
-career coaching counseling cv job search growth 
-----
-job search building a personal brand for career success 
-----
-employee wellness building well being programs that work 
-----
-job search building a personal brand for career success 
-----
-job search building a personal brand for career success 
-----
-career coaching counseling cv job search growth 
-----
-job search building a personal brand for career success 
-----
-employee wellness building well being programs that work 
-----
-job search building a personal brand for career success 
-----
-compensation and benefits 
-----
-master feedback 
-----
-talent acquisition director 
-----
-talent acquisition partner 
+5 Days 5 Flutter App Projects From Scratch 2025
 ----
 agile project management for hr strategy speed results 
 ----
-mastering talent management strategy for your organization 
+corporate management 
 ----
-business process simplification workflow optimization 
+organizational design structure matrix functional model 
 ----
-employee motivation drive engagement high performance 
+safe general overview course 
 ----
-performance management with generative ai for hr managers 
+fitness for beginners guide 
 ----
-ai robots 
+augmented reality ar 
 ----
-mastering employee benefits 
+presentations with chatgpt aece 
 ----
-master job profiles 
+certified kubernetes application developer training 
 ----
-onboarding new 
+project managers 
 ----
-generalista de rh 
+project managers 
 ----
-essentiels du coo 
+php bootcamp the complete programming course with mysql 
 ----
-master stress management build resilient workplaces 
+complete javascript programming from novice to expert 
 ----
-build winning corporate culture drive success with strategy 
+python mastery the complete web programming course 
 ----
-hr automation mastery transform hr with digital solutions 
+secure your wordpress website for beginners 
 ----
-coo essentials xuat sac van hanh lanh ao 
+digital product owner 
 ----
-how to speak and present online 
+microsoft excel excel only for beginners 
 ----
-media training the media interview protection plan 
+chatgpt make money with chatgpt as a new freelancer 
 ----
-how to speak on radio 
+postgraduate diploma in office administration management 
 ----
-media training for print interviews and online publications 
+flask framework complete course for beginners 
 ----
-simplified ict forex scalping trading strategy 
+the ceo guide playbook for chief executive officers 
 ----
-professional certificate in financial analysis and modeling 
+business process management bpm design map workflows 
 ----
-java and c and php crash course for beginners 
+competency based interviews 
 ----
-adobe illustrator for everyone design like a pro 
+learning development with generative ai in human resources 
 ----
-learn canva for advance graphics design 
+ai recruitment 
 ----
-learn chess in hindi zero to master level 
+effective delegation new 
 ----
-learn autocad 2d 
+modern recruiter 
 ----
-learn bar bending schedule in autocad excel 
+java and php complete course 
 ----
-etabs from zero to hero 
+flutter 20 firebase build a chat app for ios android 
 ----
-learn microsoft excel from zero to hero 
+flutter rest api development course build a movie app 
 ----
-learn staad pro from zero to hero hindi 
+the complete python django rest api development bootcamp 
 ----
-social media graphics design and video editing in canva 
+productivity and effectiveness 
 ----
-google sheets bootcamp boost productivity and efficiency 
+build a chat application with firebase and flutter 
 ----
-revit nested families parametric container from zero 
+the complete flutter ui course build amazing mobile ui 
 ----
-adobe animate a comprehensive guide for beginners to pro 
+javascript and php programming complete course 
 ----
-capcut video editing for social media reels shorts videos 
+digitisation 
 ----
-master the blender for game art film design 
+master product development from idea to market success 
 ----
-Site Engineer Mastery in Steel & Civil PEB Construction
+strategic product development a practical guide to research 
 ----
-learn structural architectural vastu plans along etabs 
+human resources expert certificate hr metrics and analytics 
+----
+css fundamentals comprehensive training for web developers 
+----
+laravel 10 essentials user roles permissions with spatie 
+----
+no low code marketing automation 
+----
+build go to market strategy with ai 
+----
+ceo playbook generative ai  
+----
+the power of ai avatars with heygen 
+----
+mastering linkedin lead generation social selling 
+----
+dall e 101 a comprehensive guide to creating art with ai 
+----
+introduction to software engineering 
+----
+kinemaster course 
+----
+inshot master course for beginners 
+----
+canva master course graphic design for beginner 
+----
+earn with ai graphic design content creation hacks 
+----
+american english consonants for indian it professionals 
+----
+evaluating generative models 
+----
+business app development by llms 
+----
+executive presence foundations of confident leadership 
+----
+Market Research & Competitive Analysis Executive Certificate
+----
+motivation mastery feel motivated 
+----
+intermittent fasting course 
+----
+interviewskills 
 ----
