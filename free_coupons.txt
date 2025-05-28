@@ -1,76 +1,134 @@
-Angular - The Engineers Choice
+Learn STAAD PRO | From Zero to Hero | Hindi
 ----
-adobe premiere pro advanced video editing course 
+learn microsoft excel from zero to hero 
 ----
-complete graphics design bootcamp beginner to advanced 
+learn dynamo in revit zero to hero in hindi 
 ----
-business analysis hindi 
+etabs from zero to hero 
 ----
-machine learning basics classification models in r 
+learn bar bending schedule in autocad excel 
 ----
-lookml google looker for developers 
+quantity surveying building estimate 
 ----
-hr predictive analytics 
+learn autocad 2d 
 ----
-microsoft powerpoint in hindi 
+learn chess in hindi zero to master level 
 ----
-vapt owasp 
+modeling rending interior office project in revit 
 ----
-pentesting genai llm models 
+learn html and css from beginning to advanced 
 ----
-dask starttech 
+learn php and mysql for web application and web development 
 ----
-php laravel 2023 build real estate management system 
+learn blockchain and cryptocurrency from beginning 
 ----
-professional certificate in coaching 
+python programming course for beginners and non it student 
 ----
-essentials user experience design adobe xd ui ux design 
+effective delegation for managers 
 ----
-t shirt design for beginner to advanced with adobe photoshop 
+master in systems thinking 
 ----
-the ultimate google tag manager course beginner to advanced 
+personality development for a successful management career 
 ----
-guesstimates and case interviews excellence 
+mastering complexity 
 ----
-learn in 69 mins how to make right career choices 
+excellence in leadership y 
 ----
-how to do well in your interviews 
+excellence in time management 
 ----
-how to prepare a great cv 
+excellence in interpersonal skills 
 ----
-how to get calls for an interview for a desired role 
+excellence in problem solving 
 ----
-easy guitar for beginners 
+excellence in oral communication 
 ----
-master listening to transform your relationships 
+hr consultant build audit and optimize hr systems 
 ----
-estrategia e desenvolvimento de produtos 
+python numpy for absolute beginners 
 ----
-2022 complete sql bootcamp from zero to hero in sql 
+python programming build and deploy your own applications 
 ----
-learn python from scratch its usage by nasa in mars rovers 
+the ultimate seo course 2024 beginner to advanced seo 
 ----
-nail your job interview build confidence and master english 
+numpy programming mastery learn python for data analysis 
 ----
-java fundamentals course for beginners 
+master java python c c all in one programming course 
 ----
-php master class the complete php developer course 
+css complete course for beginners 
 ----
-2022 r programming bootcamp 
+chatgpt complete chatgpt guide for beginners 
 ----
-navigating the crypto universe and blockchain 
+excel microsoft excel course beginner to expert 2022 
 ----
-2022 core java bootcamp from zero to hero 
+python and flask only demonstration course 
 ----
-sketchup with lumionv ray full course from zero 
+certificado profissional em lideranca e gestao 
 ----
-advanced kitchen modeling cabinet design sketchup lumion 
+agile scrum project management udemy 
 ----
-matlab course for wireless communication engineering 
+python programming for beginners m 
 ----
-professional diploma customer centricity and design thinking 
+introducao a gestao 
 ----
-master in new business development and entrepreneurship 
+international talent acquisition 
 ----
-master in healthcare revenue cycle management rcm 
+diploma human resources compensation benefits management 
+----
+global wealth management account opening onboarding kyc 
+----
+freelancer kompendium 
+----
+e mail marketing komplettpaket 
+----
+chatgpt for all 
+----
+gen z hr mastery hire engage retain zoomers generation 
+----
+the complete matlab course for wireless comm engineering 
+----
+excel powerpoint hr 
+----
+ai hr become master of ai in hr world learn 100 ai tools 
+----
+diploma executivo em lideranca 
+----
+stress and burnout management 
+----
+unlock the secrets of polynomials command on algebra 
+----
+Python Mastery: From "Novice to Ninja"
+----
+applying coveys 7 habits for holistic growth 
+----
+financial services overview of retail banking 
+----
+currency management for small businesses corporates 
+----
+intentional leadership 
+----
+kitchen and restaurant management 
+----
+professional certificate in customer experience management 
+----
+real pentest 
+----
+wireshark course 
+----
+wireshark course 
+----
+wireshark course 
+----
+shellcode 
+----
+nmap training 
+----
+wireshark training 
+----
+linux training 
+----
+gsm gprs ss7 edge masterclass 
+----
+principles of effective communication 
+----
+director de rrhh curso en linea en espanol 
 ----
