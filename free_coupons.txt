@@ -1,26 +1,46 @@
-Python Programming: A Step-by-Step Programming Course
+Linux for Devops Engineers and Developers
 ----
-numpy programming mastery learn python for data analysis 
+securing ubuntu linux 
 ----
-understanding typescript for beginner to advanced 
+c basics from zero to first applications 
 ----
-mongodb the complete mongodb developers course 
+facebook ads improvement make your ads breathtaking 
 ----
-automl for ai powered professionals 
+ios development craft your first app with swiftui 
 ----
-javascript fundamentals course for beginners 
+online course creation 10 key steps from idea to launch 
 ----
-mini mba in technology management for cio cto 
+marketing strategy development 
 ----
-the complete c and c plus programming course mastering c and c plus 
+linux for developers 
 ----
-machine learning fundamental of python machine learning 
+securing ubuntu linux 
 ----
-master of essential c programming beginner to advanced 
+excel malware investigation 
 ----
-javascript fundamentals to advanced full stack development 
+level 1 japanese candlesticks trading mastery program 
 ----
-ms excel masterclass for job seekers accounting success 
+bootstrapping business without money investments getting 
 ----
-data science ai masters from python to gen ai 
+emotional intelligence in leadership y 
+----
+modern leadership be your team coach not a boss 
+----
+git command line for beginners 
+----
+how websites work 
+----
+java course beginner to advance level 
+----
+the ultimate mysql crash course 2021 
+----
+lean six sigma white belt version en espanol 
+----
+professional diploma in business models development 
+----
+chatgpt for all 
+----
+employee attrition prediction in apache spark ml 
+----
+employee attrition prediction in apache spark ml 
 ----
