@@ -192,5 +192,3 @@ file.close()
 driver.close()
 print("[+] All coupons are saved in free_coupons.txt file")
 print("[-] Quiting Program!")
-
-
