@@ -1,12 +1,2 @@
-The Complete Terraform IAC Development Bootcamp
-----
-graphics design videoediting course 
-----
-advanced excel course for job and real world 
-----
-terraform training 
-----
-graphics design and video editing course for beginner 
-----
-graphics design videoediting course 
+Financial Services - Funds Flow Optimization Concepts
 ----
