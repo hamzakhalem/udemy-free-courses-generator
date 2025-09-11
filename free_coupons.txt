@@ -1,4 +1,2 @@
-Revit Made Easy: Your First Single-Storey House Project
-----
-javascript master course from beginner to expert developer 
+Generative AI Complete Bootcamp - NLP, Transformers & Gen AI
 ----
