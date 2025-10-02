@@ -1,100 +1,72 @@
-Excel Data Analysis: The Complete Analysis Masterclass
+C# for Beginner
 ----
-microsoft excel basic to advanced ultimate excel mastery 
+csharp for beginner 
 ----
-excel data mastery formulas functions charts and graphs 
+aprende react sin dolor 
 ----
-strategic digital transformation for business growth 
+project manager certification 
 ----
-social media marketing mastery 2025 9 social ad platforms 
+html5 masterclass build modern and mobile friendly websites 
 ----
-postgresql for developers design query scale databases 
+responsive design with css3 create mobile friendly webpages 
 ----
-the modern javascript course build interactive websites 
+the complete microsoft excel course beginner to advanced 
 ----
-nextjs build dynamic fast scalable web applications 
+presentations with chatgpt 
 ----
-mastering mysql build and manage databases like a pro 
+write every day building a consistent writing habit 
 ----
-google ads masterclass 2025 all features campaign setups 
+safe scaled agile framework 
 ----
-professional certificate in risk management arabic version 
+chatgpt for product management innovation h 
 ----
-financial services understanding interest rates 
+chatgpt for product managers 
 ----
-financial stewardship for decision makers and leaders 
+hands on excel vba macros automate daily tasks in minutes 
 ----
-financial services basics of regulation compliance 
+all in one microsoft office course excel word powerpoint 
 ----
-financial services overview of retail banking 
+the complete bootstrap 5 course modern layouts made easy 
 ----
-emotional intelligence in leadership y 
+the ultimate python developer course learn step by step 
 ----
-managing social anxiety in the workplace 
+The Complete SQL Course: From Zero to Data Analyst
 ----
-empathy and emotional intelligence for project managers 
+the complete cv writing tailoring masterclass 
 ----
-leadership for successful project management and delivery 
+ai for product management innovation 
 ----
-azure data engineering masters 
+womens leadership 
 ----
-smart goals parenting 
+python complete course for beginners h 
 ----
-smart goals parenting 
+marketing management principles 
 ----
-workplace stress management strategies 
+grandmaster chess strategies tactics to win more games 
 ----
-intentional leadership 
+name numerology course 
 ----
-authentic leadership t 
+basic numerology success program 
 ----
-personal growth affirmations and taking action 
+securing the budget for your project with a winning pitch deck 
 ----
-how to transform your life practical ways 
+postgraduate executive diploma general management 
 ----
-purpose driven leadership t 
+como personalizar productos en woocommerce con wowaddons 
 ----
-investing in africa key factors for investors to consider 
+como crear una pagina web en wordpress con ia 
 ----
-time management productivity decision making tools aids 
+como crear una tienda online con wordpress y cloudways 
 ----
-gratitude w 
+como migrar un sitio web wordpress a cloudways 
 ----
-your words powerful tools 
+fastpixel mejora la velocidad de carga en wordpress 
 ----
-mastering the art of professional speaking 
+curso wordpress como crear un blog gratis paso a paso 
 ----
-becoming a sought after coach 
+como crear un blog de exito paso a paso 
 ----
-writing and publishing your bestselling book 
+como crear una pagina web desde cero paso a paso 
 ----
-genai qa 
-----
-risk management in hindi 
-----
-c c and php comprehensive programming bootcamp 
-----
-numpy scipy matplotlib pandas a z machine learning 
-----
-the complete javascript course from zero to expert o 
-----
-the ultimate sql bootcamp go from zero to hero 
-----
-the complete microsoft excel from beginners to expert 
-----
-mastering c c plus programming from fundamentals to advanced 
-----
-complete jquery course learn from beginner to advanced 
-----
-curso de siteground el mejor hosting para wordpress 
-----
-prioritization techniques for decision makers and leaders 
-----
-mental health for the workplace 
-----
-financial services basics of business corporate banking 
-----
-executive presence foundations of confident leadership 
-----
-market research for product management 
+create real world php webapp from scratch 
 ----
